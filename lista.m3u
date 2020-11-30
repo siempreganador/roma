@@ -1877,36 +1877,6 @@ http://tv.nousiptv.com:25462/Omy/1234/23228
 http://tv.nousiptv.com:25462/Omy/1234/4181
 #EXTINF:-1 tvg-id="" tvg-name="RADIO - " tvg-logo="http://www.lacien.com.uy/images/slide1.jpg" group-title="RADIO",RADIO - 
 http://tv.nousiptv.com:25462/Omy/1234/40933
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 01" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 01
-http://tv.nousiptv.com:25462/Omy/1234/3463
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 02" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 02
-http://tv.nousiptv.com:25462/Omy/1234/3462
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 03" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 03
-http://tv.nousiptv.com:25462/Omy/1234/3467
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 04" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 04
-http://tv.nousiptv.com:25462/Omy/1234/3464
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 05" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 05
-http://tv.nousiptv.com:25462/Omy/1234/3465
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 06" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 06
-http://tv.nousiptv.com:25462/Omy/1234/3466
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 07" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 07
-http://tv.nousiptv.com:25462/Omy/1234/7130
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 08" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 08
-http://tv.nousiptv.com:25462/Omy/1234/7129
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 09" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 09
-http://tv.nousiptv.com:25462/Omy/1234/7125
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 10" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 10
-http://tv.nousiptv.com:25462/Omy/1234/7127
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 11" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 11
-http://tv.nousiptv.com:25462/Omy/1234/7128
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 12" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 12
-http://tv.nousiptv.com:25462/Omy/1234/47989
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 13" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 13
-http://tv.nousiptv.com:25462/Omy/1234/47990
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 14" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 14
-http://tv.nousiptv.com:25462/Omy/1234/47991
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 15 (GAY’S)" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 15 (GAY’S)
-http://tv.nousiptv.com:25462/Omy/1234/47992
 #EXTINF:-1 tvg-id="" tvg-name="ES - Eurosport 1" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_white_background.png" group-title="ESPAÑA DEPORTES",ES - Eurosport 1
 http://tv.nousiptv.com:25462/Omy/1234/41816
 #EXTINF:-1 tvg-id="" tvg-name="BRA - GLOBO BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="BRASIL",BRA - GLOBO BRASILIA HD
