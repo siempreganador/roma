@@ -1,0 +1,217 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhYNPhN/BABY-TV-IPTVFR.jpg" group-title="KIDS",Baby tv (X)
+https://tecnoplay.club/doom/principal.php?c=17&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHhDwmc/Boomerang.jpg" group-title="KIDS",Boomerang (X)
+https://tecnoplay.club/doom/principal.php?c=20&f=.m3u8s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzLfc7H/CARTOON-NETWORK.jpg" group-title="KIDS",Cartoon Network
+https://tecnoplay.club/doom/principal.php?c=24&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vCsk23/Discovery-kids.jpg" group-title="KIDS",Discovery Kids
+https://tecnoplay.club/doom/principal.php?c=36&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCZtnhg/Disney-Channel.jpg" group-title="KIDS",Disney Channel
+https://tecnoplay.club/doom/principal.php?c=44&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LdvjvS/disney-jr.jpg" group-title="KIDS",Disney JR
+https://tecnoplay.club/doom/principal.php?c=45&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fw5rVq/Disney-XD.jpg" group-title="KIDS",Disney XD
+https://tecnoplay.club/doom/principal.php?c=46&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHt7dPy/Natgeo-Kids.jpg" group-title="KIDS",Natgeo Kids
+https://tecnoplay.club/doom/principal.php?c=102&f=.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7NwLTsD/Nickelodeon.jpg" group-title="KIDS",Nickelodeon
+https://tecnoplay.club/doom/principal.php?c=104&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJg6krr/Nick2.jpg" group-title="KIDS",Nick 2
+https://tecnoplay.club/doom/principal.php?c=105&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88VkhCV/Nick.jpg" group-title="KIDS",Nick JR
+https://tecnoplay.club/doom/principal.php?c=106&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc0H7KL/Tooncas.jpg" group-title="KIDS",Tooncast
+https://tecnoplay.club/doom/principal.php?c=129&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44sPNz6/ANIMAL-PLANET-PTVFR.jpg" group-title="CULTURA",Animal Planet
+https://tecnoplay.club/doom/principal.php?c=7&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjDXVDR/DISCOVERY-CH.jpg" group-title="CULTURA",Discovery Channel
+https://tecnoplay.club/doom/principal.php?c=35&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBGGSCW/Discovery-Turbo.jpg" group-title="CULTURA",Discovery Turbo
+https://tecnoplay.club/doom/principal.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfyZBKN/Discovery-Theater.jpg" group-title="CULTURA",Discovery Theater
+https://tecnoplay.club/doom/principal.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dm6LP29/DISCOVERY-SIEN.jpg" group-title="CULTURA",Discovery Sciences
+https://tecnoplay.club/doom/principal.php?c=39&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch2ZYsF/DISCOVERY-HH.jpg" group-title="CULTURA",Discovery H&H
+https://tecnoplay.club/doom/principal.php?c=37&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYLmdYv/Investigation-Discovery.jpg" group-title="CULTURA",Investigation Discovery
+https://tecnoplay.club/doom/principal.php?c=105&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5K4zhV/TLCIPTVFR.jpg" group-title="CULTURA",TLC
+https://tecnoplay.club/doom/principal.php?c=41&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgckk3C/history-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",History
+https://tecnoplay.club/doom/principal.php?c=99&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pct56fs/H2-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",H2
+https://tecnoplay.club/doom/principal.php?c=100&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild
+https://tecnoplay.club/doom/principal.php?c=122&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vd9PF1/National-Geograp.jpg" group-title="CULTURA",National Geographic
+https://tecnoplay.club/doom/principal.php?c=120&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cw167v4/EL-GURMET.jpg" group-title="CULTURA",El Gourmet
+https://tecnoplay.club/doom/principal.php?c=49&f=.m3u8
+#EXTINF:-1 tvg-logo=".jpg" group-title="ENTRETENIMIENTO",Justicia TV
+https://tecnoplay.club/doom/principal.php?c=22&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrRCnrz/AMC.jpg" group-title="CINE Y SERIES",Amc
+https://tecnoplay.club/doom/principal.php?c=6&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRjDMwJ/a-amp-e.jpg" group-title="CINE Y SERIES",A&e
+https://tecnoplay.club/doom/principal.php?c=3&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cht20hW/Warner-Channel.jpg" group-title="CINE Y SERIES",Warner channenel
+https://tecnoplay.club/doom/principal.php?c=163&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2f4bRr/FOX.jpg" group-title="CINE Y SERIES",Fox Channel
+https://tecnoplay.club/doom/principal.php?c=63&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZYFNymr/Universal-channel.jpg" group-title="CINE Y SERIES",Universal
+https://tecnoplay.club/doom/principal.php?c=159&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6DphvY/FOX-LIFE.jpg" group-title="CINE Y SERIES",Fox Life
+https://tecnoplay.club/doom/principal.php?c=64&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyvKB8G/AXN.jpg" group-title="CINE Y SERIES",Axn
+https://tecnoplay.club/doom/principal.php?c=9&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5stn54k/SONY.jpg" group-title="CINE Y SERIES",Sony
+https://tecnoplay.club/doom/principal.php?c=132&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrVNhdy/Tnt.jpg" group-title="CINE Y SERIES",Tnt
+https://tecnoplay.club/doom/principal.php?c=146&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XL3MB0M/SPACE.jpg" group-title="CINE Y SERIES",Space
+https://tecnoplay.club/doom/principal.php?c=133&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRgy97L/Studio-Universal.jpg" group-title="CINE Y SERIES",Studio Universal
+https://tecnoplay.club/doom/principal.php?c=134&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWCp9z8/FX-IP.jpg" group-title="CINE Y SERIES",Fx
+https://tecnoplay.club/doom/principal.php?c=90&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C21DyYX/FXHD.jpg" group-title="CINE Y SERIES",Fx Movie
+https://tecnoplay.club/doom/principal.php?c=91&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBBrf9v/TBS.jpg" group-title="CINE Y SERIES",Tbs
+https://tecnoplay.club/doom/principal.php?c=138&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWdwvx0/TCM.jpg" group-title="CINE Y SERIES",Tcm
+https://tecnoplay.club/doom/principal.php?c=139&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thdx4Hh/CINE-CANAL.jpg" group-title="CINE Y SERIES",Cine canal
+https://tecnoplay.club/doom/principal.php?c=25&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nb8sVg6/CINEMAX.png" group-title="CINE Y SERIES",Cinemax
+https://tecnoplay.club/doom/principal.php?c=26&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkbYPqj/Paramount.jpg" group-title="CINE Y SERIES",Paramount
+https://tecnoplay.club/doom/principal.php?c=127&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVBCfBN/Comedy-Central.jpg" group-title="CINE Y SERIES",Comedy Central
+https://tecnoplay.club/doom/principal.php?c=123&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzQnqbq/cl-sundance-channel-m.png" group-title="CINE Y SERIES",Sundance tv
+https://tecnoplay.club/doom/principal.php?c=135&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MHWNXv/Cinelatino.jpg" group-title="CINE Y SERIES",Cine Latino
+https://tecnoplay.club/doom/principal.php?c=23&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmFm7mZ/TNT-SERIES.jpg" group-title="CINE Y SERIES",Tnt Series
+https://tecnoplay.club/doom/principal.php?c=147&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDDrkc4/FOX-ACTION.jpg" group-title="CINE Y SERIES",Fox Premium Action
+https://tecnoplay.club/doom/principal.php?c=65&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwRhvNV/FOX-CINEMA.jpg" group-title="CINE Y SERIES",Fox Premium Cinema
+https://tecnoplay.club/doom/principal.php?c=67&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nCzFtNW/fox-comedy.jpg" group-title="CINE Y SERIES",Fox Premium Comedy
+https://tecnoplay.club/doom/principal.php?c=69&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tsjrQQm/FOX-CLASSIC-IPTVFR.jpg" group-title="CINE Y SERIES",Fox Premium Classics
+https://tecnoplay.club/doom/principal.php?c=68&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bsHPy5/fox-family.jpghttps://i.ibb.co/9bsHPy5/fox-family.jpg"group-title="CINE Y SERIES",Fox Premium Family
+https://tecnoplay.club/doom/principal.php?c=70&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dky8jRH/fox-series.jpg" group-title="CINE Y SERIES",Fox Premium Series
+https://tecnoplay.club/doom/principal.php?c=72&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sd5rT28/fox-movies.jpg" group-title="CINE Y SERIES",Fox Premium Movies
+https://tecnoplay.club/doom/principal.php?c=71&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden
+https://tecnoplay.club/doom/principal.php?c=95&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden Premier
+https://tecnoplay.club/doom/principal.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO
+https://tecnoplay.club/doom/principal.php?c=74&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHd4GZ3/hbo2.jpg" group-title="CINE Y SERIES",HBO 2
+https://tecnoplay.club/doom/principal.php?c=75&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5hWtZW/HBO-PLUS-IPTVFR.jpg" group-title="CINE Y SERIES",HBO plus
+https://tecnoplay.club/doom/principal.php?c=78&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xfjmtm/HBO-Family.jpg" group-title="CINE Y SERIES",HBO Family
+https://tecnoplay.club/doom/principal.php?c=76&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO Signature
+https://tecnoplay.club/doom/principal.php?c=80&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCnTRrK/max-prime.jpg" group-title="CINE Y SERIES",HBO Mundi
+https://tecnoplay.club/doom/principal.php?c=77&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO Pop
+https://tecnoplay.club/doom/principal.php?c=79&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO EXTREME
+https://tecnoplay.club/doom/principal.php?c=82&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tDbjmNX/AZ-CORA.jpg" group-title="ENTRETENIMIENTO",Az Corazon
+https://tecnoplay.club/doom/principal.php?c=13&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K9FqCPZ/LIFETIME.jpg" group-title="ENTRETENIMIENTO",Lifetime
+https://tecnoplay.club/doom/principal.php?c=109&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txXLPPC/MAS-CHIC.jpg" group-title="ENTRETENIMIENTO",Mas Chic
+https://tecnoplay.club/doom/principal.php?c=110&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPG6FJd/AZ-MUND.jpg" group-title="ENTRETENIMIENTO",Az Mundo
+https://tecnoplay.club/doom/principal.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmXRZHr/HOLATV.jpg" group-title="ENTRETENIMIENTO",Hola TV
+https://tecnoplay.club/doom/principal.php?c=101&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/51wjY61/logo-multimedios-2.png" group-title="ENTRETENIMIENTO",Multimedios
+https://tecnoplay.club/doom/principal.php?c=100&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kymB7WM/telemundo.jpg" group-title="ENTRETENIMIENTO",Telemundo
+https://tecnoplay.club/doom/principal.php?c=151&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FzGc99Y/DHEI.jpg" group-title="ENTRETENIMIENTO",DHE
+https://tecnoplay.club/doom/principal.php?c=34&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports
+https://tecnoplay.club/doom/principal.php?c=164&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv sports-2
+https://tecnoplay.club/doom/principal.php?c=165&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyqmwzm/FOX-Sports.jpg" group-title="DEPORTES",Fox Sports 1 [latm]
+https://tecnoplay.club/doom/principal.php?c=86&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 2 [latm]
+https://tecnoplay.club/doom/principal.php?c=87&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 3 [latm]
+https://tecnoplay.club/doom/principal.php?c=88&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR12DVr/FOX-Sports-MEXICO.jpg" group-title="DEPORTES",Fox Sports 1 [MEX]
+https://tecnoplay.club/doom/principal.php?c=83&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3jL7db/Fox-sports-2-MEXICO.jpg" group-title="DEPORTES",Fox Sports 2 [MEX]
+https://tecnoplay.club/doom/principal.php?c=84&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37NkJdN/Fox-sports-3-MEXICO.jpg" group-title="DEPORTES",Fox Sports 3 [MEX]
+https://tecnoplay.club/doom/principal.php?c=85&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7BC4yr/ESPN.jpg" group-title="DEPORTES",Espn 1 (latm)
+https://tecnoplay.club/doom/principal.php?c=55&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (latm)
+https://tecnoplay.club/doom/principal.php?c=56&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (latm)
+https://tecnoplay.club/doom/principal.php?c=57&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mn6RsTZ/ESPN-PLUS.jpg" group-title="DEPORTES",Espn Plus (latm)
+https://tecnoplay.club/doom/principal.php?c=58&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DKpDq1/ESPN-MX.jpg" group-title="DEPORTES",Espn (MEX)
+https://tecnoplay.club/doom/principal.php?c=51&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (MEX)
+https://tecnoplay.club/doom/principal.php?c=52&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (MEX)
+https://tecnoplay.club/doom/principal.php?c=53&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5QNysK/TDN-UNIVI.jpg" group-title="DEPORTES",Univision TUDN
+https://tecnoplay.club/doom/principal.php?c=150&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
+https://tecnoplay.club/doom/principal.php?c=142&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="DEPORTES",Golf Channel
+https://tecnoplay.club/doom/principal.php?c=97&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PDH7DhW/CNN-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="NOTICIAS",Cnn espanol
+https://tecnoplay.club/doom/principal.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/61626QC/cnn-internacional-iptv.jpg" group-title="NOTICIAS",Cnn internacional [USA]
+https://tecnoplay.club/doom/principal.php?c=15&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fSRX1nw/GTo-Mw-YPgp71-X-kkdyydnl-Hr9-IVP1ls4l-NC8l-TPi-NU6mz-Fvd-U3-S7-Bp7z-EKd-JH4-PQ7r-Y.png" group-title="NOTICIAS",ADN 40
+https://tecnoplay.club/doom/principal.php?c=148&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6JRTP3/200px-MTV-Logo-svg.png" group-title="MUSICA",MTV
+https://tecnoplay.club/doom/principal.php?c=115&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYmNVpn/1200px-MTV-Live-svg.png" group-title="MUSICA",MTV Live
+https://tecnoplay.club/doom/principal.php?c=117&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YNcfn34/ar-mtv-hits-m.png" group-title="MUSICA",MTV Hits
+https://tecnoplay.club/doom/principal.php?c=116&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV
+https://tecnoplay.club/doom/principal.php?c=164&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fGkNRC/VH1.jpg" group-title="MUSICA",Vh1
+https://tecnoplay.club/doom/principal.php?c=160&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CnyQC8x/VH1-CLASSIC.jpg" group-title="MUSICA",Vh1 Classics
+https://tecnoplay.club/doom/principal.php?c=161&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC1cy7m/CONCERT.jpg" group-title="MUSICA",Concert Channel
+https://tecnoplay.club/doom/principal.php?c=143&f=.m3u8
