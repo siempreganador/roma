@@ -1,865 +1,610 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="• MUNDO Y CULTURA",MyC - ANIMAL PLANET
-http://tv.nousiptv.com:25462/Omy/1234/3247
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY  HOME & HEALTH
-http://tv.nousiptv.com:25462/Omy/1234/3083
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC - DISCOVERY CHANNEL" tvg-logo="http://www.mediafire.com/convkey/c688/05s7pcifvp81gbbzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3251
-#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name="MyC - HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="• MUNDO Y CULTURA",MyC - HGTV
-http://tv.nousiptv.com:25462/Omy/1234/3252
-#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MyC - DISCOVERY ID" tvg-logo="http://images.mi.tv/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY ID
-http://tv.nousiptv.com:25462/Omy/1234/4123
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="MyC - DISCOVERY SCIENCE" tvg-logo="http://www.mediafire.com/convkey/a2c6/7a9rt7yxxr38e36zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY SCIENCE
-http://tv.nousiptv.com:25462/Omy/1234/3082
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MyC - DISCOVERY THEATER" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY THEATER
-http://tv.nousiptv.com:25462/Omy/1234/4119
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="MyC - DISCOVERY TLC" tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY TLC
-http://tv.nousiptv.com:25462/Omy/1234/3256
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MyC - DISCOVERY WORLD" tvg-logo="http://www.mediafire.com/convkey/6f45/a3whnlqu8srx38gzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY WORLD
-http://tv.nousiptv.com:25462/Omy/1234/3081
-#EXTINF:-1 tvg-id="DeutscheWelleLatinAmerica.de" tvg-name="MyC - DW LATINOAMERICA" tvg-logo="http://homozapping.com.mx/wp-content/uploads/2015/06/dw.jpg" group-title="• MUNDO Y CULTURA",MyC - DW LATINOAMERICA
-http://tv.nousiptv.com:25462/Omy/1234/2102
-#EXTINF:-1 tvg-id="" tvg-name="MyC - FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="• MUNDO Y CULTURA",MyC - FILM & ARTS
-http://tv.nousiptv.com:25462/Omy/1234/3966
-#EXTINF:-1 tvg-id="" tvg-name="MyC - FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="• MUNDO Y CULTURA",MyC - FRANCE 24
-http://tv.nousiptv.com:25462/Omy/1234/33357
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="MyC - H2" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s38e131959d60d495/image/i723822227aa9d8ff/version/1474594103/image.png" group-title="• MUNDO Y CULTURA",MyC - H2
-http://tv.nousiptv.com:25462/Omy/1234/4005
-#EXTINF:-1 tvg-id="" tvg-name="MyC - HISPAN TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hispan-tv_m.png" group-title="• MUNDO Y CULTURA",MyC - HISPAN TV
-http://tv.nousiptv.com:25462/Omy/1234/33481
-#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MyC - HISTORY" tvg-logo="http://www.mediafire.com/convkey/6ef9/2d5y67luvmgvxwwzg.jpg" group-title="• MUNDO Y CULTURA",MyC - HISTORY
-http://tv.nousiptv.com:25462/Omy/1234/3234
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg" group-title="• MUNDO Y CULTURA",MyC - NATGEO
-http://tv.nousiptv.com:25462/Omy/1234/4126
-#EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="MyC - NATGEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO MUNDO
-http://tv.nousiptv.com:25462/Omy/1234/3774
-#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="MyC - NATGEO WILD" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO WILD
-http://tv.nousiptv.com:25462/Omy/1234/3270
-#EXTINF:-1 tvg-id="RTDocEnglish.ru" tvg-name="MyC - RT ESPAÑOL" tvg-logo="https://s3.spbtv.com/rosing-production/34970a702bcb2748f65f_1014x1014c.png" group-title="• MUNDO Y CULTURA",MyC - RT ESPAÑOL
-http://tv.nousiptv.com:25462/Omy/1234/2064
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - BEIN SPORTS HD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3747
-#EXTINF:-1 tvg-id="" tvg-name="LD - BEIN SPORTS SD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS SD
-http://tv.nousiptv.com:25462/Omy/1234/43187
-#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/7863
-#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS" tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/33512
-#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:25462/Omy/1234/32882
-#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2
-http://tv.nousiptv.com:25462/Omy/1234/32881
-#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS HD
-http://tv.nousiptv.com:25462/Omy/1234/27879
-#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="LD - DIRECTV SPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS
-http://tv.nousiptv.com:25462/Omy/1234/8520
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="LD - FOX DEPORTES USA HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg" group-title="• LATINO DEPORTES •",LD - FOX DEPORTES USA HD
-http://tv.nousiptv.com:25462/Omy/1234/3753
-#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 1 SUR HD" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3612
-#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 1 SUR" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 SUR
-http://tv.nousiptv.com:25462/Omy/1234/18580
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD - FOX SPORTS 2 SUR HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/16139
-#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 2 SUR SD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/42456
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/33475
-#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 3 SUR SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43640
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="LD - FOX SPORTS MX" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS MX
-http://tv.nousiptv.com:25462/Omy/1234/3267
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="LD - FOX SPORTS 2 MX" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 MX
-http://tv.nousiptv.com:25462/Omy/1234/3268
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LD - FOX SPORTS 3 MX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 MX
-http://tv.nousiptv.com:25462/Omy/1234/4008
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="LD - ESPN DEPORTES HD" tvg-logo="https://futbol.radioformula.com.mx/wp-content/uploads/2019/06/Logo-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN DEPORTES HD
-http://tv.nousiptv.com:25462/Omy/1234/3613
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3614
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/33469
-#EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/43637
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR SD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/3616
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3615
-#EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43639
-#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN PLUS SUR FHD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •",LD - ESPN PLUS SUR FHD
-http://tv.nousiptv.com:25462/Omy/1234/7940
-#EXTINF:-1 tvg-id="" tvg-name="LD - ESPN PLUS SUR SD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •",LD - ESPN PLUS SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43638
-#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN MX" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",LD - ESPN MX
-http://tv.nousiptv.com:25462/Omy/1234/3178
-#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN 2 MX" tvg-logo="http://www.mediafire.com/convkey/7617/64eaua60jei8k3pzg.jpg" group-title="• LATINO DEPORTES •",LD - ESPN 2 MX
-http://tv.nousiptv.com:25462/Omy/1234/3258
-#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="LD - ESPN 3 MX" tvg-logo="http://www.mediafire.com/convkey/d823/mp5467d3i5iq4n4zg.jpg" group-title="• LATINO DEPORTES •",LD - ESPN 3 MX
-http://tv.nousiptv.com:25462/Omy/1234/3260
-#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="LD - ESPN PLUS MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •",LD - ESPN PLUS MX
-http://tv.nousiptv.com:25462/Omy/1234/4120
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - UNIVISION TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN USA
-http://tv.nousiptv.com:25462/Omy/1234/3751
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - UNIVISION DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •",LD - UNIVISION DEPORTES FHD
-http://tv.nousiptv.com:25462/Omy/1234/3962
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - UNIVISION TUDN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN HD
-http://tv.nousiptv.com:25462/Omy/1234/4117
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="LD - TUDN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •",LD - TUDN FHD
-http://tv.nousiptv.com:25462/Omy/1234/3963
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS HD" tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •",LD - TYC SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3759
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS" tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •",LD - TYC SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/8247
-#EXTINF:-1 tvg-id="" tvg-name="LD - TIGO SPORTS HD (PARAGUAY)" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" group-title="PARAGUAY",LD - TIGO SPORTS HD (PARAGUAY)
-http://tv.nousiptv.com:25462/Omy/1234/29832
-#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="LD - GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png" group-title="• LATINO DEPORTES •",LD - GOL TV HD
-http://tv.nousiptv.com:25462/Omy/1234/3755
-#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="LD - CLARO SPORTS HD" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="• LATINO DEPORTES •",LD - CLARO SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/12011
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - UFC  NETWORK FHD" tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2017/03/UFC-LOGO.png" group-title="• LATINO DEPORTES •",LD - UFC  NETWORK FHD
-http://tv.nousiptv.com:25462/Omy/1234/4082
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - UFC FIGHT LATINOAMERICA" tvg-logo="http://www.acessoriosparaautos.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/l/pl5288_1_5.jpg" group-title="• LATINO DEPORTES •",LD - UFC FIGHT LATINOAMERICA
-http://tv.nousiptv.com:25462/Omy/1234/3421
-#EXTINF:-1 tvg-id="" tvg-name="LD - GOLF LATIN AMERICA" tvg-logo="https://images.mediapro.es/imagina_us/custom/block/Golf_Channel_Logo_web2.png" group-title="• LATINO DEPORTES •",LD - GOLF LATIN AMERICA
-http://tv.nousiptv.com:25462/Omy/1234/33363
-#EXTINF:-1 tvg-id="" tvg-name="LD - LATIN AMERICAN SPORTS" tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="• LATINO DEPORTES •",LD - LATIN AMERICAN SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/33356
-#EXTINF:-1 tvg-id="" tvg-name="LD - AYM SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook_400x400.jpg" group-title="• LATINO DEPORTES •",LD - AYM SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/3089
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - PX SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1120358282022084609/-SIEjTgc_400x400.png" group-title="• LATINO DEPORTES •",LD - PX SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/4128
-#EXTINF:-1 tvg-id="" tvg-name="LD - UFC LIVE HD" tvg-logo="https://p-img.movetv.com/cms/images/6fa62e4f1691da2fbf96eb96bfc6dfda5dfc0ba4.jpg" group-title="• LATINO DEPORTES •",LD - UFC LIVE HD
-http://tv.nousiptv.com:25462/Omy/1234/53372
-#EXTINF:-1 tvg-id="" tvg-name="LD - DAZN 1 (TEST)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADhCAMAAADmr0l2AAAAflBMVEUAAAD///8JCQnDw8NMTEywsLCdnZ0NDQ0YGBhDQ0PS0tJcXFzZ2dnHx8c0NDQwMDC2traXl5fp6en4+Pji4uI/Pz+7u7skJCTu7u4dHR0WFhZtbW309PTj4+MjIyPb29tUVFRISEinp6d5eXlkZGSIiIiBgYGZmZl8fHxwcHDGahCCAAAG7klEQVR4nO2daV8iMQzGZ0BFUfDAY8Fb1931+3/BlWPSdKZJgyBN+OV5hUw77Z/O8fSKVa/aa/UqB7QtB7QuB7QuB7QuB7QuB7QuB7QuB7QuB7QuB7QuB7QuB7QuB7QuDnB8cWhEFzffAjyozejUAR1QtxzQAZVrQ8C+Wm0JkExRXPsOOHBAB3TAonJAB3TAsnJAB3TAsnJAB3TAsnLAzQFn12eknvtr1fbmdjQa9W9vL+VZdgB4XHMayutaVbfrXzDFAdcihEx/xVnKA9YjcWUvIc+DOI8CQDnhr5DntzSPBkAp4W+URXxhqwAUEg5xljtRFi2AIsKnKMehIMdcuwR8u2xpPcK3+DfJZ1hol4CdZQCvaxFOYsA/2QwL7RLwpHPoZQ3C95ivvs6kXwkAD8gkPwgYPRjHfE2fW4D1K59+pcKAuF14wJs2X33Lpm9UGrD6EAJewKVZC8oMKg5YwRQsDwhY52fNJ1GfojwgNA0LCA19Xd03H39xGRpZAQQb+l5VD81niSE1AnjaJJpUqFMhMaRGAEdNoqP5X80fEkNqAzDY2dn8T+jYvzHFrmQD8KhJs7Q7J7Wg2JVsAIINfVn+Da7mH1PuUiYAP5skj6svwP/kDakJQHi1Qw9iwp8TyQLguO6UAn3DrCG1AAgpQi8+PFaZgheyAAgw5+E7eDHmDKkBQLCh2LiAtckZUgOAV02Ce/wtmFN6KGIh/YAwrBGPZkO7ZoY69ANCf/Eo/r75up4yZRsA7AHIID4gNKTlAQ95QLCh7ZlEeDtOmLIVAM6g+5oGhMP19fN8ynQ4HC5mTq/DgXem8PKAoZ5JQBifYPTMFF4c8CrUMwkYTbhQonfOFQe8RtWcJfKeS/jqC6b0soBnqJbJZjisRWJK3yXgQW8WKRjKJP1cMr76QwcgpzTfHyHglXpA4jHxKASsX5QDEnxw9of+KCm4h2lDqgKQesyDDSXvMTgFWUWwegUBydcYpCDPDUb2iEqxLUBmeCsHSPLBED098AKGlFwZBLfxhoAMYQaQtiHg4pihM7gLiYmY4JQ2BaQJp9/kAxvKDX5CorQhRU7we4C48o9UovE5rQGV6Uuz6XR6POjxkTRO5roZj5PzMIhvckyegg3WcTcREJaSjI8H1EyI+bhxjUy4FbWEUr4cYPWkk1B4fVaCgDkq21DcfpKIQAoJ5e0nCnmk7ipdh08CqK0N17g+K2HQKtyGTPdzN0J8D6mRnpZkUblew0nXWEf/I8IjcbRBCzLdgpPzfHLb92BuGWpl/ilaZ9vQ+nsw24bmnUyOMAeokm+dq3QPehN8G+5Df5Al3IsePUe48ZjM60lWxE0yWGaldkisDpPHI8InEuJnR9WWIkY+X1eHibXLzWF6ocXGo2pbGBddiJjChJWv6Y1KAEj3iLY2LrrByLYEML06WwC4tZFtuoTtACZvcAmghskXCWByuc9eAaYqCKUzgCrmB0WAifkjJYAbvCYwYGctlxrAxTkGs9l0+nS3nHEZf+nmZooWWRClR4D1J1l6ecCUws5BcvtDDNheb6gc8DRUnNwy3gI8o0rXCHhH1zuoBdhegQ6LgTUChrgUzHrPNmCrT6AZcEhVOlIHMB6RVAyIohrcM8k6gPHtqhfwM9SYXXHdBYx2EagFRHvi+V2qABh6PfiOVQsYhjky+1YAsP8XsqCJD62AaJlvZhMuAA5RzzWsQYdXqS5A2PCQ3ycOgCO0xy7g6AREDi0bygABoohVsKhJJSByaPmgcRgQhSNpfhiNgChukWAaMQJE/crVAjcI1qIIEEUOE0wuR4DVP8i6evgqBEQO7UWQPAZEq/SXhkYfIHJozE6AoBYg2mWwMDTqAJFDk4XzaQOGCEkLQwOLRZUAIocmjDjVBkTv0Pk32gCDQ5tIFqZUCcAq2lSnDBA5NFlALexFOwXOqT7DR1K7A0QOTRjzLQWInlPPugCRQ+N2w8VKACLX/aHpKYocGrthM1YKELlu+NHKAyKHxu8pjpUCrHDMRzWAyKFx+1HbAsDotdkJAlgeEDk0dst0W2nAONCoBkDk0KRxT5dKA3b3TRYGRA5trajaJGBnb3ZhQFST/u2XLubC/2H17ZC4cCnA9t7esoC9Oq/c/GD7eCt+QFnAQZ1Xboa38wP0o+xlAWc/ARhH/LU/R98FxOGB9wAwcRwHSdhLQOyO7AOmnrJogKDwQ2Ye5IbXGTHGPX7mjl82Jz5jRiALrrLYjRzQAR2wrBzQAR2wrBzQAR2wrBzQAR2wrBzQOmC1JcC+Wm0JUL8c0AGVywEdULm+B3j+dmREb3TIFVlULsNyQOtyQOtyQOtyQOtyQOtyQOtyQOtyQOtyQOtyQOtyQOtyQOtyQOvq/QeU63s8kIWutAAAAABJRU5ErkJggg==" group-title="• LATINO DEPORTES •",LD - DAZN 1 (TEST)
-http://tv.nousiptv.com:25462/Omy/1234/53380
-#EXTINF:-1 tvg-id="" tvg-name="LD - TVC DEPORTES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png" group-title="• LATINO DEPORTES •",LD - TVC DEPORTES
-http://tv.nousiptv.com:25462/Omy/1234/4139
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E" tvg-logo="http://www.mediafire.com/convkey/7d1d/lpcc5t1n8sp5ynczg.jpg" group-title="• CINE",CINE - A&E
-http://tv.nousiptv.com:25462/Omy/1234/3246
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC" tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3.png" group-title="• CINE",CINE - AMC
-http://tv.nousiptv.com:25462/Omy/1234/4118
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN" tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg" group-title="• CINE",CINE - AXN
-http://tv.nousiptv.com:25462/Omy/1234/3248
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://images.mi.tv/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="• CINE",CINE - CINE LATINO
-http://tv.nousiptv.com:25462/Omy/1234/4136
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://www.mediafire.com/convkey/6706/gz77e06fxqv0ifezg.jpg" group-title="• CINE",CINE - CINECANAL
-http://tv.nousiptv.com:25462/Omy/1234/3250
-#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="• CINE",CINE - CINEMA DINAMITA
-http://tv.nousiptv.com:25462/Omy/1234/4142
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://www.mediafire.com/convkey/c00c/qr3b8ugkko838ggzg.jpg" group-title="• CINE",CINE - CINEMAX
-http://tv.nousiptv.com:25462/Omy/1234/3084
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CLARO CINEMA" tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg" group-title="• CINE",CINE - CLARO CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/4145
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - DE PELICULA" tvg-logo="http://www.mediafire.com/convkey/1cb2/e9iq0c5sr2003nezg.jpg" group-title="• CINE",CINE - DE PELICULA
-http://tv.nousiptv.com:25462/Omy/1234/2997
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - DE PELICULA PLUS" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="• CINE",CINE - DE PELICULA PLUS
-http://tv.nousiptv.com:25462/Omy/1234/3239
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/DHE2017.png" group-title="• CINE",CINE - DHE
-http://tv.nousiptv.com:25462/Omy/1234/24180
-#EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="• CINE",CINE - EUROPA EUROPA
-http://tv.nousiptv.com:25462/Omy/1234/33359
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - FOX CHANNEL" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-FOX-TURKEY-ANDROID-TV-BOX-APP-1.png" group-title="• CINE",CINE - FOX CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4121
-#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="CINE - FOX LIFE" tvg-logo="http://www.mediafire.com/convkey/90d3/1ajw5r28j1y8m21zg.jpg" group-title="• CINE",CINE - FOX LIFE
-http://tv.nousiptv.com:25462/Omy/1234/3203
-#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="CINE - FOX PREMIUM ACTION" tvg-logo="http://www.mediafire.com/convkey/bd90/jc8b9ocvxowgqxfzg.jpg" group-title="• CINE",CINE - FOX PREMIUM ACTION
-http://tv.nousiptv.com:25462/Omy/1234/3263
-#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="CINE - FOX PREMIUM CINEMA" tvg-logo="https://lh3.googleusercontent.com/-pdpApWxvFBw/WiP4EOIialI/AAAAAAAAPHI/tHqK7UKIppIU85FVMDlaYuFG2C-VIfwiQCLcBGAs/h200/fox_cinema.jpg" group-title="• CINE",CINE - FOX PREMIUM CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/3264
-#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="CINE - FOX PREMIUM CLASSICS" tvg-logo="http://www.mediafire.com/convkey/571b/50vyss5h03dpl0gzg.jpg" group-title="• CINE",CINE - FOX PREMIUM CLASSICS
-http://tv.nousiptv.com:25462/Omy/1234/3077
-#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-name="CINE - FOX PREMIUM COMEDY" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-comedy_m.png" group-title="• CINE",CINE - FOX PREMIUM COMEDY
-http://tv.nousiptv.com:25462/Omy/1234/3102
-#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="CINE - FOX PREMIUM FAMILY" tvg-logo="https://images.mi.tv/channels/cl_fox-family_m.png" group-title="• CINE",CINE - FOX PREMIUM FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/4032
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="CINE - FOX PREMIUM MOVIES" tvg-logo="http://www.mediafire.com/convkey/d4f7/n9xjx1l5z1j7x0lzg.jpg" group-title="• CINE",CINE - FOX PREMIUM MOVIES
-http://tv.nousiptv.com:25462/Omy/1234/3266
-#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="CINE - FOX PREMIUM SERIES." tvg-logo="https://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png" group-title="• CINE",CINE - FOX PREMIUM SERIES.
-http://tv.nousiptv.com:25462/Omy/1234/3262
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX" tvg-logo="http://www.mediafire.com/convkey/f17c/gavni9iyf1mclumzg.jpg" group-title="• CINE",CINE - FX
-http://tv.nousiptv.com:25462/Omy/1234/3201
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="CINE - FXM" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="• CINE",CINE - FXM
-http://tv.nousiptv.com:25462/Omy/1234/4009
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://www.mediafire.com/convkey/75d1/s98p9219fz77880zg.jpg" group-title="• CINE",CINE - GOLDEN
-http://tv.nousiptv.com:25462/Omy/1234/3236
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - GOLDEN EDGE" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" group-title="• CINE",CINE - GOLDEN EDGE
-http://tv.nousiptv.com:25462/Omy/1234/3237
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO" tvg-logo="http://www.mediafire.com/convkey/6b95/ad52fhlxjxot0rbzg.jpg" group-title="• CINE",CINE - HBO
-http://tv.nousiptv.com:25462/Omy/1234/3199
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2" tvg-logo="http://www.mediafire.com/convkey/84f4/6vyp06rkhqfier5zg.jpg" group-title="• CINE",CINE - HBO 2
-http://tv.nousiptv.com:25462/Omy/1234/3198
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-pop.png" group-title="• CINE",CINE - HBO POP
-http://tv.nousiptv.com:25462/Omy/1234/47445
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="CINE - HBO PLUS" tvg-logo="http://images.mi.tv/channels/ar_hbo-plus-este_m.png" group-title="• CINE",CINE - HBO PLUS
-http://tv.nousiptv.com:25462/Omy/1234/4003
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="CINE - HBO FAMILY " tvg-logo="http://images.mi.tv/channels/mx_hbo-family_m.png" group-title="• CINE",CINE - HBO FAMILY 
-http://tv.nousiptv.com:25462/Omy/1234/4017
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO MUNDI" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png" group-title="• CINE",CINE - HBO MUNDI
-http://tv.nousiptv.com:25462/Omy/1234/44337
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO SIGNATURE" tvg-logo="http://www.mediafire.com/convkey/2025/bomlvbb964p1p74zg.jpg" group-title="• CINE",CINE - HBO SIGNATURE
-http://tv.nousiptv.com:25462/Omy/1234/3197
-#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="CINE - I-SAT" tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="• CINE",CINE - I-SAT
-http://tv.nousiptv.com:25462/Omy/1234/3074
-#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://i.pinimg.com/originals/7d/02/1e/7d021e9fa568cccfc0bcf541df7aec66.jpg" group-title="• CINE",CINE - MORBID TV
-http://tv.nousiptv.com:25462/Omy/1234/33364
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - PANICO TV HD" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/panico-300x300.jpg" group-title="• CINE",CINE - PANICO TV HD
-http://tv.nousiptv.com:25462/Omy/1234/7436
-#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT CHANNEL" tvg-logo="https://images.mi.tv/channels/cl_paramount-channel-hd_m.png" group-title="• CINE",CINE - PARAMOUNT CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/2952
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://www.mediafire.com/convkey/aff2/cbeb722so92ybayzg.jpg" group-title="• CINE",CINE - SONY
-http://tv.nousiptv.com:25462/Omy/1234/3069
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SPACE" tvg-logo="http://www.mediafire.com/convkey/ca09/78ypzdm581locjfzg.jpg" group-title="• CINE",CINE - SPACE
-http://tv.nousiptv.com:25462/Omy/1234/3232
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="• CINE",CINE - STUDIO UNIVERSAL
-http://tv.nousiptv.com:25462/Omy/1234/3229
-#EXTINF:-1 tvg-id="SundanceTV.mx" tvg-name="CINE - SUNDANCE TV" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/15-sundance.png" group-title="• CINE",CINE - SUNDANCE TV
-http://tv.nousiptv.com:25462/Omy/1234/4101
-#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY" tvg-logo="http://www.pophorror.com/wp-content/uploads/2016/09/syfy_logo_small.jpg" group-title="• CINE",CINE - SYFY
-http://tv.nousiptv.com:25462/Omy/1234/3958
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="CINE - TBS" tvg-logo="https://logonoid.com/images/tbs-logo.png" group-title="• CINE",CINE - TBS
-http://tv.nousiptv.com:25462/Omy/1234/4011
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="CINE - TCM" tvg-logo="http://www.mediafire.com/convkey/0211/lyj9dwgwygu3l6qzg.jpg" group-title="• CINE",CINE - TCM
-http://tv.nousiptv.com:25462/Omy/1234/3065
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="• CINE",CINE - TNT
-http://tv.nousiptv.com:25462/Omy/1234/4010
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES" tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="• CINE",CINE - TNT SERIES
-http://tv.nousiptv.com:25462/Omy/1234/3218
-#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="• CINE",CINE - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3068
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://www.mediafire.com/convkey/1eb6/gbkuhu73ss24b6kzg.jpg" group-title="• CINE",CINE - WARNER
-http://tv.nousiptv.com:25462/Omy/1234/3228
-#EXTINF:-1 tvg-id="" tvg-name="ENT - FOOD NETWORK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4146
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT -COMEDY CENTRAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" group-title="• ENTRETENIMIENTO",ENT -COMEDY CENTRAL
-http://tv.nousiptv.com:25462/Omy/1234/3241
-#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT -DISCOVERY TURBO" tvg-logo="http://www.mediafire.com/convkey/cd8f/qlkiabg0k6dc8qvzg.jpg" group-title="• ENTRETENIMIENTO",ENT -DISCOVERY TURBO
-http://tv.nousiptv.com:25462/Omy/1234/3257
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -E! ENTERTAINMENT" tvg-logo="http://www.mediafire.com/convkey/f110/g9fk4m4a5111oaxzg.jpg" group-title="• ENTRETENIMIENTO",ENT -E! ENTERTAINMENT
-http://tv.nousiptv.com:25462/Omy/1234/3207
-#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT -EL GOURMET" tvg-logo="http://images.mi.tv/channels/mx_el-gourmet_m.png" group-title="• ENTRETENIMIENTO",ENT -EL GOURMET
-http://tv.nousiptv.com:25462/Omy/1234/3206
-#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT -GARAGE TV" tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW.jpeg" group-title="• ENTRETENIMIENTO",ENT -GARAGE TV
-http://tv.nousiptv.com:25462/Omy/1234/4016
-#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="ENT -GLITZ" tvg-logo="http://www.mediafire.com/convkey/95e5/y7cerfw1pvyplp1zg.jpg" group-title="• ENTRETENIMIENTO",ENT -GLITZ
-http://tv.nousiptv.com:25462/Omy/1234/3238
-#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV" tvg-logo="http://oyememagazine.com/wp-content/uploads/2017/09/inicio06.jpg" group-title="• ENTRETENIMIENTO",ENT - HOLA TV
-http://tv.nousiptv.com:25462/Omy/1234/3075
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="ENT -LIFETIME" tvg-logo="http://www.mediafire.com/convkey/4df9/qdmxhrpyc8y954lzg.jpg" group-title="• ENTRETENIMIENTO",ENT -LIFETIME
-http://tv.nousiptv.com:25462/Omy/1234/3073
-#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="ENT -MAS CHIC" tvg-logo="http://images.mi.tv/channels/sv_mas-chic_m.png" group-title="• ENTRETENIMIENTO",ENT -MAS CHIC
-http://tv.nousiptv.com:25462/Omy/1234/4124
-#EXTINF:-1 tvg-id="truTV.mx" tvg-name="ENT -TRU TV" tvg-logo="http://www.mediafire.com/convkey/b06a/pl5hulab678tl9qzg.jpg" group-title="• ENTRETENIMIENTO",ENT -TRU TV
-http://tv.nousiptv.com:25462/Omy/1234/3231
-#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT -WOBI" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" group-title="• ENTRETENIMIENTO",ENT -WOBI
-http://tv.nousiptv.com:25462/Omy/1234/4134
-#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF - BABY FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png" group-title="• INFANTILES •",INF - BABY FIRST
-http://tv.nousiptv.com:25462/Omy/1234/2958
-#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF - BABY TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="• INFANTILES •",INF - BABY TV
-http://tv.nousiptv.com:25462/Omy/1234/3798
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.pa" tvg-name="INF - BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="• INFANTILES •",INF - BOOMERANG
-http://tv.nousiptv.com:25462/Omy/1234/3085
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF - CARTOON NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png" group-title="• INFANTILES •",INF - CARTOON NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3249
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF - DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS
-http://tv.nousiptv.com:25462/Omy/1234/3254
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF - DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="• INFANTILES •",INF - DISNEY CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4004
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF - DISNEY JUNIOR" tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="• INFANTILES •",INF - DISNEY JUNIOR
-http://tv.nousiptv.com:25462/Omy/1234/3222
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="INF - DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1280px-Disney_XD_-_2015_%28Purple%29.svg.png" group-title="• INFANTILES •",INF - DISNEY XD
-http://tv.nousiptv.com:25462/Omy/1234/3221
-#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="INF - NATGEO KIDS" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="• INFANTILES •",INF - NATGEO KIDS
-http://tv.nousiptv.com:25462/Omy/1234/4144
-#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF - NICK 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Nick_2_Latinoamerica.png" group-title="• INFANTILES •",INF - NICK 2
-http://tv.nousiptv.com:25462/Omy/1234/4140
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF - NICK JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="• INFANTILES •",INF - NICK JUNIOR
-http://tv.nousiptv.com:25462/Omy/1234/4194
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/1280px-Nicktoons_2014_logo.svg.png" group-title="• INFANTILES •",INF - NICK TOONS
-http://tv.nousiptv.com:25462/Omy/1234/3220
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="INF - NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="• INFANTILES •",INF - NICKELODEON
-http://tv.nousiptv.com:25462/Omy/1234/3071
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="• INFANTILES •",INF - TOONCAST
-http://tv.nousiptv.com:25462/Omy/1234/3242
-#EXTINF:-1 tvg-id="" tvg-name="NTV - 01  [REAL VALLADOLID VS LEVANTE EN VIVO]" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="•  EVENTOS ESPECIALES  •",NTV - 01  [REAL VALLADOLID VS LEVANTE EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/13062
-#EXTINF:-1 tvg-id="" tvg-name="NTV - 02 [ EN VIVO]" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="•  EVENTOS ESPECIALES  •",NTV - 02 [ EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/16143
-#EXTINF:-1 tvg-id="" tvg-name="NTV - 03 [ EN VIVO]" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="•  EVENTOS ESPECIALES  •",NTV - 03 [ EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/358
-#EXTINF:-1 tvg-id="" tvg-name="NTV - 04 [ EN VIVO]" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="•  EVENTOS ESPECIALES  •",NTV - 04 [ EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/16080
-#EXTINF:-1 tvg-id="" tvg-name="NTV - 05 [ EN VIVO]" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="•  EVENTOS ESPECIALES  •",NTV - 05 [ EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/16410
-#EXTINF:-1 tvg-id="" tvg-name="NTV - 06  NFL BAL - TEN [EXTRA]" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="•  EVENTOS ESPECIALES  •",NTV - 06  NFL BAL - TEN [EXTRA]
-http://tv.nousiptv.com:25462/Omy/1234/17180
-#EXTINF:-1 tvg-id="" tvg-name="NTV - 07 Mike Tyson vs. Roy Jones Jr  28/10/20 [ EN VIVO]" tvg-logo="https://images.app.goo.gl/Y2kYxzt8arVnhwbG7" group-title="•  EVENTOS ESPECIALES  •",NTV - 07 Mike Tyson vs. Roy Jones Jr  28/10/20 [ EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/33479
-#EXTINF:-1 tvg-id="" tvg-name="CINP - INDIE PLEX" tvg-logo="https://i.ibb.co/47nJH8g/indie-plex.jpg" group-title="•CINEMA PREMIUM•",CINP - INDIE PLEX
-http://tv.nousiptv.com:25462/Omy/1234/8142
-#EXTINF:-1 tvg-id="" tvg-name="CINP - MORE MAX HD" tvg-logo="https://i.ibb.co/72fJbm6/more-max-hd.jpg" group-title="•CINEMA PREMIUM•",CINP - MORE MAX HD
-http://tv.nousiptv.com:25462/Omy/1234/8143
-#EXTINF:-1 tvg-id="" tvg-name="CINP - MOVIE MAX" tvg-logo="https://i.ibb.co/Pcz3bts/movie-max.jpg" group-title="•CINEMA PREMIUM•",CINP - MOVIE MAX
-http://tv.nousiptv.com:25462/Omy/1234/8144
-#EXTINF:-1 tvg-id="" tvg-name="CINP - MOVIEPLEX" tvg-logo="https://i.ibb.co/6bkWMhv/movie-plex.jpg" group-title="•CINEMA PREMIUM•",CINP - MOVIEPLEX
-http://tv.nousiptv.com:25462/Omy/1234/8145
-#EXTINF:-1 tvg-id="" tvg-name="CINP - OUTERMAX HD" tvg-logo="https://i.ibb.co/58nBFy4/outer-max-HD.jpg" group-title="•CINEMA PREMIUM•",CINP - OUTERMAX HD
-http://tv.nousiptv.com:25462/Omy/1234/8146
-#EXTINF:-1 tvg-id="" tvg-name="CINP - RETROPLEX HD" tvg-logo="https://i.ibb.co/tsjGHNV/retroplex-hd.jpg" group-title="•CINEMA PREMIUM•",CINP - RETROPLEX HD
-http://tv.nousiptv.com:25462/Omy/1234/8147
-#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOTIME WEST HD" tvg-logo="https://i.ibb.co/z7YWytV/showtime-west.jpg" group-title="•CINEMA PREMIUM•",CINP - SHOTIME WEST HD
-http://tv.nousiptv.com:25462/Omy/1234/8141
-#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOW TIME HD" tvg-logo="https://i.ibb.co/19tsb4T/showtime.jpg" group-title="•CINEMA PREMIUM•",CINP - SHOW TIME HD
-http://tv.nousiptv.com:25462/Omy/1234/8138
-#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME BEYOND HD" tvg-logo="https://i.ibb.co/PxNVMS5/showtime-beyond.jpg" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME BEYOND HD
-http://tv.nousiptv.com:25462/Omy/1234/8139
-#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME EAST" tvg-logo="https://i.ibb.co/JBMWmMW/showtime-east.jpg" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME EAST
-http://tv.nousiptv.com:25462/Omy/1234/8140
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ CINEMA HD" tvg-logo="https://i.ibb.co/znT33wK/starz-cinema.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ CINEMA HD
-http://tv.nousiptv.com:25462/Omy/1234/8136
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ COMEDY HD" tvg-logo="https://i.ibb.co/j3JdKrP/starz-comedy.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ COMEDY HD
-http://tv.nousiptv.com:25462/Omy/1234/8135
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE ACTION HD" tvg-logo="https://i.ibb.co/cDfgh1D/starz-encore-action.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE ACTION HD
-http://tv.nousiptv.com:25462/Omy/1234/8128
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE BLACK" tvg-logo="https://i.ibb.co/7tX08nM/starz-encore-black.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE BLACK
-http://tv.nousiptv.com:25462/Omy/1234/8127
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE FAMILY HD" tvg-logo="https://i.ibb.co/ZVt4G6k/starz-encore-fam.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE FAMILY HD
-http://tv.nousiptv.com:25462/Omy/1234/8129
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE HD" tvg-logo="https://i.ibb.co/44Nw86c/starz-encore.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE HD
-http://tv.nousiptv.com:25462/Omy/1234/8126
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE SUSPENSE" tvg-logo="https://i.ibb.co/CQDmSg1/starz-encore-suspense.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE SUSPENSE
-http://tv.nousiptv.com:25462/Omy/1234/8130
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ FAMILY HD" tvg-logo="https://i.ibb.co/ZVt4G6k/starz-encore-fam.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ FAMILY HD
-http://tv.nousiptv.com:25462/Omy/1234/8131
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ HD" tvg-logo="https://i.ibb.co/hKFs65Y/starz-hd.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ HD
-http://tv.nousiptv.com:25462/Omy/1234/8132
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ IN BLACK" tvg-logo="https://i.ibb.co/7jtDKMr/starz-in-black.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
-http://tv.nousiptv.com:25462/Omy/1234/8137
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ KIDS & FAMILY" tvg-logo="https://i.ibb.co/0F76c50/starz-fam.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ KIDS & FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/8133
-#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ WESTERN HD" tvg-logo="https://i.ibb.co/k5ZHTL9/starz-encore-western.jpg" group-title="•CINEMA PREMIUM•",CINP - STARZ WESTERN HD
-http://tv.nousiptv.com:25462/Omy/1234/8134
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="FHD - A&E HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/ae-featured-image.jpg?w=446&h=299&crop=1" group-title="• FULL HD (1080 HQ)",FHD - A&E HD
-http://tv.nousiptv.com:25462/Omy/1234/4037
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="FHD - AMC" tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3.png" group-title="• FULL HD (1080 HQ)",FHD - AMC
-http://tv.nousiptv.com:25462/Omy/1234/4085
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="FHD - ANIMAL PLANET" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/03/animal-planet-logo__120322141108.jpg?w=600" group-title="• FULL HD (1080 HQ)",FHD - ANIMAL PLANET
-http://tv.nousiptv.com:25462/Omy/1234/4067
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="FHD - ANTENA 3 INT." tvg-logo="http://www.mediafire.com/convkey/b2b8/bb2q3qochn7rc0uzg.jpg" group-title="• FULL HD (1080 HQ)",FHD - ANTENA 3 INT.
-http://tv.nousiptv.com:25462/Omy/1234/3139
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="FHD - AXN HD" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo_0.jpg" group-title="• FULL HD (1080 HQ)",FHD - AXN HD
-http://tv.nousiptv.com:25462/Omy/1234/4038
-#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="FHD - BABY FIRST" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" group-title="• FULL HD (1080 HQ)",FHD - BABY FIRST
-http://tv.nousiptv.com:25462/Omy/1234/4088
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - BABY TV HQ" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/BABY-540x370.jpg" group-title="• FULL HD (1080 HQ)",FHD - BABY TV HQ
-http://tv.nousiptv.com:25462/Omy/1234/4116
-#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="FHD - BLOOMBERG" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2011/10/Bloomberg-Television.jpg" group-title="• FULL HD (1080 HQ)",FHD - BLOOMBERG
-http://tv.nousiptv.com:25462/Omy/1234/4089
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - BOOMERANG" tvg-logo="http://images.mi.tv/channels/ar_boomerang-cartoon_m.png" group-title="• FULL HD (1080 HQ)",FHD - BOOMERANG
-http://tv.nousiptv.com:25462/Omy/1234/4061
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="FHD - CARTOON NETWORK" tvg-logo="http://www.tallon4.com/wp-content/uploads/2013/06/cartoon-network.jpg" group-title="• FULL HD (1080 HQ)",FHD - CARTOON NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4063
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="FHD - CINECANAL" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="• FULL HD (1080 HQ)",FHD - CINECANAL
-http://tv.nousiptv.com:25462/Omy/1234/4068
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="FHD - CINEMAX" tvg-logo="http://images.mi.tv/channels/mx_cinemax_m.png" group-title="• FULL HD (1080 HQ)",FHD - CINEMAX
-http://tv.nousiptv.com:25462/Omy/1234/4110
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="FHD - COMEDY CENTRAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" group-title="• FULL HD (1080 HQ)",FHD - COMEDY CENTRAL
-http://tv.nousiptv.com:25462/Omy/1234/4039
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="FHD - DISCOVERY CHANNEL" tvg-logo="https://i.ytimg.com/vi/926Jv-sjz54/maxresdefault.jpg" group-title="• FULL HD (1080 HQ)",FHD - DISCOVERY CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4069
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="FHD - DISCOVERY HOME & HEALTH" tvg-logo="http://www.teleaire.com/wp-content/uploads/2013/01/HomeandHelth01.jpg" group-title="• FULL HD (1080 HQ)",FHD - DISCOVERY HOME & HEALTH
-http://tv.nousiptv.com:25462/Omy/1234/4070
-#EXTINF:-1 tvg-id="" tvg-name="FHD - DISCOVERY ID" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Investigation_Discovery_logo_2012.jpg.300x300_q85.jpg" group-title="• FULL HD (1080 HQ)",FHD - DISCOVERY ID
-http://tv.nousiptv.com:25462/Omy/1234/3600
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="FHD - DISCOVERY KIDS" tvg-logo="http://www.todotvnews.com/ttvnews/2017/04/resize1_discokids20.jpg" group-title="• FULL HD (1080 HQ)",FHD - DISCOVERY KIDS
-http://tv.nousiptv.com:25462/Omy/1234/4072
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="FHD - DISCOVERY THEATER" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="• FULL HD (1080 HQ)",FHD - DISCOVERY THEATER
-http://tv.nousiptv.com:25462/Omy/1234/4073
-#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="FHD - DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="• FULL HD (1080 HQ)",FHD - DISCOVERY TURBO
-http://tv.nousiptv.com:25462/Omy/1234/4075
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="FHD - DISCOVERY WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYl00Q85p0nswFcytwSwKBhLZqJTjMQJk9S6JD31OmTNHnmLLbbA" group-title="• FULL HD (1080 HQ)",FHD - DISCOVERY WORLD
-http://tv.nousiptv.com:25462/Omy/1234/4076
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="FHD - DISNEY JR" tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="• FULL HD (1080 HQ)",FHD - DISNEY JR
-http://tv.nousiptv.com:25462/Omy/1234/4111
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="FHD - DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="• FULL HD (1080 HQ)",FHD - DISNEY XD
-http://tv.nousiptv.com:25462/Omy/1234/4102
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="FHD - DISTRITO COMEDIA" tvg-logo="http://i.televisa.com/2017/04/distrito_comedia.jpg" group-title="• FULL HD (1080 HQ)",FHD - DISTRITO COMEDIA
-http://tv.nousiptv.com:25462/Omy/1234/4040
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="FHD - E! ENTERTAINMENT" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png" group-title="• FULL HD (1080 HQ)",FHD - E! ENTERTAINMENT
-http://tv.nousiptv.com:25462/Omy/1234/4041
-#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="FHD - EL GOURMET" tvg-logo="http://images.mi.tv/channels/mx_el-gourmet_m.png" group-title="• FULL HD (1080 HQ)",FHD - EL GOURMET
-http://tv.nousiptv.com:25462/Omy/1234/4042
-#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="FHD - FOOD NETWORK" tvg-logo="http://food.fnr.sndimg.com/content/dam/images/food/unsized/2013/1/4/0/fnd_FN-New-Logo_s4x3_lead.jpg" group-title="• FULL HD (1080 HQ)",FHD - FOOD NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4057
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="FHD - FOX HD" tvg-logo="http://www.elespectador.com/sites/default/files/b2b872b67aceb067a12d2611b00592ae.jpg" group-title="• FULL HD (1080 HQ)",FHD - FOX HD
-http://tv.nousiptv.com:25462/Omy/1234/4022
-#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FHD - FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="• FULL HD (1080 HQ)",FHD - FOX LIFE HD
-http://tv.nousiptv.com:25462/Omy/1234/4043
-#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FHD - FOX PREMIUM ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM ACTION
-http://tv.nousiptv.com:25462/Omy/1234/4019
-#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM CINEMA" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-cinema_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/8238
-#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM CLASSICS" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-classics_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM CLASSICS
-http://tv.nousiptv.com:25462/Omy/1234/8237
-#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM COMEDY" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-comedy_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM COMEDY
-http://tv.nousiptv.com:25462/Omy/1234/8234
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FHD - FOX PREMIUM FAMILY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/4084
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FHD - FOX PREMIUM MOVIES" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM MOVIES
-http://tv.nousiptv.com:25462/Omy/1234/4023
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - FOX PREMIUM SERIES" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png" group-title="• FULL HD (1080 HQ)",FHD - FOX PREMIUM SERIES
-http://tv.nousiptv.com:25462/Omy/1234/4020
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FHD - FX HD" tvg-logo="http://images.mi.tv/channels/ar_fx_m.png" group-title="• FULL HD (1080 HQ)",FHD - FX HD
-http://tv.nousiptv.com:25462/Omy/1234/4044
-#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="FHD - GLITZ" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_146.png?itok=VIMM7ikd" group-title="• FULL HD (1080 HQ)",FHD - GLITZ
-http://tv.nousiptv.com:25462/Omy/1234/4045
-#EXTINF:-1 tvg-id="" tvg-name="FHD - GOLDEN PLUS" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" group-title="• FULL HD (1080 HQ)",FHD - GOLDEN PLUS
-http://tv.nousiptv.com:25462/Omy/1234/8255
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="FHD - GOLDEN PREMIERE" tvg-logo="http://images.mi.tv/channels/co_golden-premier-hd_m.png" group-title="• FULL HD (1080 HQ)",FHD - GOLDEN PREMIERE
-http://tv.nousiptv.com:25462/Omy/1234/4091
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="FHD - HBO 2" tvg-logo="http://images.mi.tv/channels/cl_hbo-2_m.png" group-title="• FULL HD (1080 HQ)",FHD - HBO 2
-http://tv.nousiptv.com:25462/Omy/1234/4095
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="• FULL HD (1080 HQ)",FHD - HBO FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/3211
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="FHD - HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png" group-title="• FULL HD (1080 HQ)",FHD - HBO HD
-http://tv.nousiptv.com:25462/Omy/1234/4112
-#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="FHD - HISTORY" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/08/history-logo.jpg" group-title="• FULL HD (1080 HQ)",FHD - HISTORY
-http://tv.nousiptv.com:25462/Omy/1234/4093
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="FHD - HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="• FULL HD (1080 HQ)",FHD - HBO PLUS
-http://tv.nousiptv.com:25462/Omy/1234/4109
-#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="FHD - HOLA TV" tvg-logo="http://www.palmkids.es/wp-content/uploads/HOLA.jpg" group-title="• FULL HD (1080 HQ)",FHD - HOLA TV
-http://tv.nousiptv.com:25462/Omy/1234/4046
-#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="FHD - I - SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="• FULL HD (1080 HQ)",FHD - I - SAT
-http://tv.nousiptv.com:25462/Omy/1234/4098
-#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="FHD - MAS CHIC" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/07/LOGO-MASCHIC-TXT-VIOLETA-copia.png" group-title="• FULL HD (1080 HQ)",FHD - MAS CHIC
-http://tv.nousiptv.com:25462/Omy/1234/4047
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - HBO XTREME" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png" group-title="• FULL HD (1080 HQ)",FHD - HBO XTREME
-http://tv.nousiptv.com:25462/Omy/1234/8226
-#EXTINF:-1 tvg-id="" tvg-name="FHD - HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title="• FULL HD (1080 HQ)",FHD - HBO POP
-http://tv.nousiptv.com:25462/Omy/1234/8246
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="FHD - MTV" tvg-logo="https://4.bp.blogspot.com/-oJ-85oy_wV4/V8hZRwfKObI/AAAAAAAAJPo/SWPN1bCWe0o-hRSUk1nJazCeSMkm_B6zwCLcB/s1600/logo-mtv-hd.png" group-title="• FULL HD (1080 HQ)",FHD - MTV
-http://tv.nousiptv.com:25462/Omy/1234/4083
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="FHD - MTV LIVE" tvg-logo="http://www.billboard.com/files/styles/article_main_image/public/media/MTV-Live-Logo.jpg" group-title="• FULL HD (1080 HQ)",FHD - MTV LIVE
-http://tv.nousiptv.com:25462/Omy/1234/4096
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="FHD - NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/2000px-Nat_Geo_HD_Logo.svg.png" group-title="• FULL HD (1080 HQ)",FHD - NAT GEO
-http://tv.nousiptv.com:25462/Omy/1234/4097
-#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="FHD - NAT GEO KIDS" tvg-logo="http://touristmeetstraveler.com/wp-content/uploads/National_Geographic_Kids.jpg" group-title="• FULL HD (1080 HQ)",FHD - NAT GEO KIDS
-http://tv.nousiptv.com:25462/Omy/1234/4078
-#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="FHD - NAT GEO WILD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png?w=605" group-title="• FULL HD (1080 HQ)",FHD - NAT GEO WILD
-http://tv.nousiptv.com:25462/Omy/1234/4079
-#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="FHD - NICK 2" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/a/ac/Nick_Jr_2_old.png/revision/latest?cb=20100518162006" group-title="• FULL HD (1080 HQ)",FHD - NICK 2
-http://tv.nousiptv.com:25462/Omy/1234/4064
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="FHD - NICK JR" tvg-logo="http://www.mediafire.com/convkey/ec9d/msty2teq2prq8kvzg.jpg" group-title="• FULL HD (1080 HQ)",FHD - NICK JR
-http://tv.nousiptv.com:25462/Omy/1234/3187
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="FHD - NICKELODEON" tvg-logo="https://ugc.kn3.net/i/origin/http://images.bwwstatic.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="• FULL HD (1080 HQ)",FHD - NICKELODEON
-http://tv.nousiptv.com:25462/Omy/1234/4058
-#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="FHD - PARAMOUNT" tvg-logo="https://images.mi.tv/channels/cl_paramount-channel-hd_m.png" group-title="• FULL HD (1080 HQ)",FHD - PARAMOUNT
-http://tv.nousiptv.com:25462/Omy/1234/4065
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="FHD - SONY" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0055592.png" group-title="• FULL HD (1080 HQ)",FHD - SONY
-http://tv.nousiptv.com:25462/Omy/1234/4048
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="FHD - SPACE HD" tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0011_Layer%2039.jpg" group-title="• FULL HD (1080 HQ)",FHD - SPACE HD
-http://tv.nousiptv.com:25462/Omy/1234/4099
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="FHD - STUDIO UNIVERSAL" tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="• FULL HD (1080 HQ)",FHD - STUDIO UNIVERSAL
-http://tv.nousiptv.com:25462/Omy/1234/4100
-#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="FHD - SYFY" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/090707syfy_logo1.jpg.300x300_q85.jpg" group-title="• FULL HD (1080 HQ)",FHD - SYFY
-http://tv.nousiptv.com:25462/Omy/1234/4049
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="FHD - TCM HD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="• FULL HD (1080 HQ)",FHD - TCM HD
-http://tv.nousiptv.com:25462/Omy/1234/4106
-#EXTINF:-1 tvg-id="" tvg-name="FHD - TLC" tvg-logo="http://images.mi.tv/channels/ar_discovery-tlc_m.png" group-title="• FULL HD (1080 HQ)",FHD - TLC
-http://tv.nousiptv.com:25462/Omy/1234/4074
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="FHD - TNT HD" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="• FULL HD (1080 HQ)",FHD - TNT HD
-http://tv.nousiptv.com:25462/Omy/1234/4103
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="FHD - TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="• FULL HD (1080 HQ)",FHD - TNT SERIES
-http://tv.nousiptv.com:25462/Omy/1234/4050
-#EXTINF:-1 tvg-id="truTV.mx" tvg-name="FHD - TOONCAST" tvg-logo="http://tvisual.org/wp-content/uploads/2011/01/trutv-logo.gif" group-title="• FULL HD (1080 HQ)",FHD - TOONCAST
-http://tv.nousiptv.com:25462/Omy/1234/4051
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="FHD - UNIVERSAL CHANNEL" tvg-logo="https://hips.hearstapps.com/digitalspyuk.cdnds.net/13/31/uktv-universal-channel-logo.jpg" group-title="• FULL HD (1080 HQ)",FHD - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4054
-#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="FHD - WARNER" tvg-logo="http://images.mi.tv/channels/ar_warner-channel_m.png" group-title="• FULL HD (1080 HQ)",FHD - WARNER
-http://tv.nousiptv.com:25462/Omy/1234/4053
-#EXTINF:-1 tvg-id="" tvg-name="FHD - WOBI TV" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" group-title="• FULL HD (1080 HQ)",FHD - WOBI TV
-http://tv.nousiptv.com:25462/Omy/1234/4107
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA - NBA TV FHD" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="• USA SPORTS VIP •",NBA - NBA TV FHD
-http://tv.nousiptv.com:25462/Omy/1234/3964
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA - NBA TV" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="• USA SPORTS VIP •",NBA - NBA TV
-http://tv.nousiptv.com:25462/Omy/1234/3710
-#EXTINF:-1 tvg-id="" tvg-name="LMP - CHARROS DE JALISCO " tvg-logo="https://s3.amazonaws.com/boletomovil/charros/equipos/674.png" group-title="• BEISBOL DE LAS GRANDES LIGAS MLB •",LMP - CHARROS DE JALISCO 
-http://tv.nousiptv.com:25462/Omy/1234/18781
-#EXTINF:-1 tvg-id="" tvg-name="NBA - ATLANTA HAWKS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• USA SPORTS VIP •",NBA - ATLANTA HAWKS
-http://tv.nousiptv.com:25462/Omy/1234/18590
-#EXTINF:-1 tvg-id="" tvg-name="NFL - BALTIMORE RAVENS" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/bal.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - BALTIMORE RAVENS
-http://tv.nousiptv.com:25462/Omy/1234/18540
-#EXTINF:-1 tvg-id="" tvg-name="NFL - RED ZONE" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2018/09/nfl_red_zone_logo-620x350.jpg" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - RED ZONE
-http://tv.nousiptv.com:25462/Omy/1234/18589
-#EXTINF:-1 tvg-id="" tvg-name="NBA - CHICAGO BULLS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• USA SPORTS VIP •",NBA - CHICAGO BULLS
-http://tv.nousiptv.com:25462/Omy/1234/18591
-#EXTINF:-1 tvg-id="" tvg-name="NFL - SAN FRANCISCO 49 ERS" tvg-logo="http://loodibee.com/wp-content/uploads/nfl-san-francisco-49ers-team-logo-2.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - SAN FRANCISCO 49 ERS
-http://tv.nousiptv.com:25462/Omy/1234/3352
-#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW YORK GIANTS" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fnyg.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - NEW YORK GIANTS
-http://tv.nousiptv.com:25462/Omy/1234/18581
-#EXTINF:-1 tvg-id="" tvg-name="NBA - DENVER NUGGETS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• USA SPORTS VIP •",NBA - DENVER NUGGETS
-http://tv.nousiptv.com:25462/Omy/1234/18587
-#EXTINF:-1 tvg-id="" tvg-name="NFL - MINNESOTA VIKINGS" tvg-logo="https://images.homedepot-static.com/productImages/efaff9b6-29bc-49bc-a85a-459685cb2723/svn/team-adventure-furniture-wall-signs-n0843-min-64_600.jpg" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - MINNESOTA VIKINGS
-http://tv.nousiptv.com:25462/Omy/1234/18552
-#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW ORLEANS SAINTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/New_Orleans_Saints_logo.svg/800px-New_Orleans_Saints_logo.svg.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - NEW ORLEANS SAINTS
-http://tv.nousiptv.com:25462/Omy/1234/18562
-#EXTINF:-1 tvg-id="" tvg-name="NFL - HOUSTON TEXANS" tvg-logo="https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fteams%2Fhouston-texans_416x416.jpg" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - HOUSTON TEXANS
-http://tv.nousiptv.com:25462/Omy/1234/3350
-#EXTINF:-1 tvg-id="" tvg-name="NFL - INDIANAPOLIS COLTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/160px-Indianapolis_Colts_logo.svg.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - INDIANAPOLIS COLTS
-http://tv.nousiptv.com:25462/Omy/1234/18551
-#EXTINF:-1 tvg-id="" tvg-name="NBA - LOS ANGELES CLIPPERS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• USA SPORTS VIP •",NBA - LOS ANGELES CLIPPERS
-http://tv.nousiptv.com:25462/Omy/1234/18550
-#EXTINF:-1 tvg-id="" tvg-name="NBA - LOS ANGELES LAKERS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• USA SPORTS VIP •",NBA - LOS ANGELES LAKERS
-http://tv.nousiptv.com:25462/Omy/1234/18549
-#EXTINF:-1 tvg-id="" tvg-name="NFL - LOS ANGELES RAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Los_Angeles_Rams_wordmark.svg/1200px-Los_Angeles_Rams_wordmark.svg.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - LOS ANGELES RAMS
-http://tv.nousiptv.com:25462/Omy/1234/18548
-#EXTINF:-1 tvg-id="" tvg-name="NFL - MIAMI DOLPHINS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - MIAMI DOLPHINS
-http://tv.nousiptv.com:25462/Omy/1234/18547
-#EXTINF:-1 tvg-id="" tvg-name="NBA - MILWAUKEE BUCKS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• USA SPORTS VIP •",NBA - MILWAUKEE BUCKS
-http://tv.nousiptv.com:25462/Omy/1234/17190
-#EXTINF:-1 tvg-id="" tvg-name="NFL - LOS ANGELES CHARGERS" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/lac.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - LOS ANGELES CHARGERS
-http://tv.nousiptv.com:25462/Omy/1234/18546
-#EXTINF:-1 tvg-id="" tvg-name="NFL - OAKLAND RAIDERS" tvg-logo="https://images.homedepot-static.com/productImages/c9123b60-dfbb-4171-a1db-f018f6b4202e/svn/team-adventure-furniture-wall-signs-n0843-oak-64_1000.jpg" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - OAKLAND RAIDERS
-http://tv.nousiptv.com:25462/Omy/1234/18584
-#EXTINF:-1 tvg-id="" tvg-name="NFL - JACKSONVILLE JAGUARS" tvg-logo="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/70/66/d1.jpg" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - JACKSONVILLE JAGUARS
-http://tv.nousiptv.com:25462/Omy/1234/18545
-#EXTINF:-1 tvg-id="" tvg-name="NFL - PITTSBURGH STEELERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pittsburgh_Steelers_logo.svg/768px-Pittsburgh_Steelers_logo.svg.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - PITTSBURGH STEELERS
-http://tv.nousiptv.com:25462/Omy/1234/18586
-#EXTINF:-1 tvg-id="" tvg-name="NFL - WASHINGTON REDSKINS" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/07/Washington-Redskins-logo-650x366.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - WASHINGTON REDSKINS
-http://tv.nousiptv.com:25462/Omy/1234/18588
-#EXTINF:-1 tvg-id="" tvg-name="NFL - ARIZONA CARDINALS" tvg-logo="https://www.pngitem.com/pimgs/m/135-1352195_transparent-cardinals-logo-png-saginaw-valley-state-university.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - ARIZONA CARDINALS
-http://tv.nousiptv.com:25462/Omy/1234/17187
-#EXTINF:-1 tvg-id="" tvg-name="NFL - PHILADELPHIA EAGLES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7188JelZCfL._AC_SL1500_.jpg" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - PHILADELPHIA EAGLES
-http://tv.nousiptv.com:25462/Omy/1234/18585
-#EXTINF:-1 tvg-id="" tvg-name="NFL - CHICAGO BEARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chicago_Bears_logo.svg/1280px-Chicago_Bears_logo.svg.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - CHICAGO BEARS
-http://tv.nousiptv.com:25462/Omy/1234/18544
-#EXTINF:-1 tvg-id="" tvg-name="NFL - CAROLINA PANTHERS" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/car.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - CAROLINA PANTHERS
-http://tv.nousiptv.com:25462/Omy/1234/18543
-#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW YORK JETS" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fnyj.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - NEW YORK JETS
-http://tv.nousiptv.com:25462/Omy/1234/18583
-#EXTINF:-1 tvg-id="" tvg-name="NBA - TORONTO RAPTORS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="• USA SPORTS VIP •",NBA - TORONTO RAPTORS
-http://tv.nousiptv.com:25462/Omy/1234/18542
-#EXTINF:-1 tvg-id="" tvg-name="NFL - BUFFALO BILLS" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/buffalo_bills.png" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - BUFFALO BILLS
-http://tv.nousiptv.com:25462/Omy/1234/18541
-#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW ENGLAND PATRIOTS" tvg-logo="https://m.media-amazon.com/images/I/61MZoHAheaL._AC_SS350_.jpg" group-title="• FUTBOL AMERICANO DE LA NFL •",NFL - NEW ENGLAND PATRIOTS
-http://tv.nousiptv.com:25462/Omy/1234/18561
-#EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE12 FHD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="URUGUAY",URU - TELE12 FHD
-http://tv.nousiptv.com:25462/Omy/1234/3620
-#EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE12 HD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="URUGUAY",URU - TELE12 HD
-http://tv.nousiptv.com:25462/Omy/1234/18731
-#EXTINF:-1 tvg-id="" tvg-name="URU - TELE12 SD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="URUGUAY",URU - TELE12 SD
-http://tv.nousiptv.com:25462/Omy/1234/18578
-#EXTINF:-1 tvg-id="MonteCarloTV.uy" tvg-name="URU - CANAL 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY",URU - CANAL 4 HD
-http://tv.nousiptv.com:25462/Omy/1234/8334
-#EXTINF:-1 tvg-id="CanalPlus23.pa" tvg-name="URU - CANAL 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY",URU - CANAL 4 SD
-http://tv.nousiptv.com:25462/Omy/1234/18261
-#EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU - CANAL 10 HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="URUGUAY",URU - CANAL 10 HD
-http://tv.nousiptv.com:25462/Omy/1234/18567
-#EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU - CANAL 10 SD" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/03/Canal10Uy-500x500-300x300.jpg" group-title="URUGUAY",URU - CANAL 10 SD
-http://tv.nousiptv.com:25462/Omy/1234/3344
-#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 5 (TNU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/LOGO_tnu_alta.png" group-title="URUGUAY",URU - CANAL 5 (TNU)
-http://tv.nousiptv.com:25462/Omy/1234/19351
-#EXTINF:-1 tvg-id="" tvg-name="URU - LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png" group-title="URUGUAY",URU - LA RED
-http://tv.nousiptv.com:25462/Omy/1234/35428
-#EXTINF:-1 tvg-id="" tvg-name="URU - TV CIUDAD SD" tvg-logo="https://i.imgur.com/0Cl2Al1.png" group-title="URUGUAY",URU - TV CIUDAD SD
-http://tv.nousiptv.com:25462/Omy/1234/16136
-#EXTINF:-1 tvg-id="" tvg-name="URU - TV CIUDAD HD" tvg-logo="https://i.imgur.com/0Cl2Al1.png" group-title="URUGUAY",URU - TV CIUDAD HD
-http://tv.nousiptv.com:25462/Omy/1234/19352
-#EXTINF:-1 tvg-id="" tvg-name="URU - DEL SOL TV" tvg-logo="https://www.zcast.cl/wp-content/uploads/2020/04/LOGOCANALDELSOL.jpeg" group-title="URUGUAY",URU - DEL SOL TV
-http://tv.nousiptv.com:25462/Omy/1234/34605
-#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",URU - VTV FHD
-http://tv.nousiptv.com:25462/Omy/1234/3802
-#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",URU - VTV HD
-http://tv.nousiptv.com:25462/Omy/1234/22204
-#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",URU - VTV SD
-http://tv.nousiptv.com:25462/Omy/1234/3598
-#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_VTV_Plus.svg/1200px-Logo_VTV_Plus.svg.png" group-title="URUGUAY",URU - VTV Plus HD
-http://tv.nousiptv.com:25462/Omy/1234/19354
-#EXTINF:-1 tvg-id="" tvg-name="URU - VTV Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_VTV_Plus.svg/1200px-Logo_VTV_Plus.svg.png" group-title="URUGUAY",URU - VTV Plus SD
-http://tv.nousiptv.com:25462/Omy/1234/52513
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="URU - ESPN URUGUAY HD" tvg-logo="https://i.pinimg.com/originals/46/20/0d/46200d34573f4112c7414023c3a12f9a.png" group-title="URUGUAY",URU - ESPN URUGUAY HD
-http://tv.nousiptv.com:25462/Omy/1234/3621
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="URU - DIRECTV SPORTS URUGUAY" tvg-logo="https://i.imgur.com/hh3KND5.png" group-title="URUGUAY",URU - DIRECTV SPORTS URUGUAY
-http://tv.nousiptv.com:25462/Omy/1234/2041
-#EXTINF:-1 tvg-id="" tvg-name="URU - MAROÑAS ENTERTAIMENT (PRUEBA)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.-n4GE1CQskJjQKMgX1PCEwAAAA&pid=Api&P=0&w=300&h=300" group-title="URUGUAY",URU - MAROÑAS ENTERTAIMENT (PRUEBA)
-http://tv.nousiptv.com:25462/Omy/1234/31618
-#EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 1" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="URUGUAY",URU - PPV URUGUAY 1
-http://tv.nousiptv.com:25462/Omy/1234/3226
-#EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 2" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="URUGUAY",URU - PPV URUGUAY 2
-http://tv.nousiptv.com:25462/Omy/1234/7943
-#EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 3" tvg-logo="https://img2.freepng.es/20180716/zes/kisspng-logo-brand-trademark-ufc-logo-5b4d4d855b1141.103630741531792773373.jpg" group-title="URUGUAY",URU - PPV URUGUAY 3
-http://tv.nousiptv.com:25462/Omy/1234/43600
-#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL M (TEST)" tvg-logo="https://www.canalm.tv/plantillas/temas2014/canalm/imagenes/logo-movil.png" group-title="• USA SPORTS VIP •",URU - CANAL M (TEST)
-http://tv.nousiptv.com:25462/Omy/1234/34608
-#EXTINF:-1 tvg-id="" tvg-name="ENT - DEL SOL TV" tvg-logo="https://www.zcast.cl/wp-content/uploads/2020/04/LOGOCANALDELSOL.jpeg" group-title="• ENTRETENIMIENTO",ENT - DEL SOL TV
-http://tv.nousiptv.com:25462/Omy/1234/34603
-#EXTINF:-1 tvg-id="" tvg-name="ENT - EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/225px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="• ENTRETENIMIENTO",ENT - EWTN
-http://tv.nousiptv.com:25462/Omy/1234/34609
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="USA SPORTS",US.SP - ESPN U
-http://tv.nousiptv.com:25462/Omy/1234/34602
-#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 7 PUNTA (TEST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal7TWnlhy.png" group-title="• USA SPORTS VIP •",URU - CANAL 7 PUNTA (TEST)
-http://tv.nousiptv.com:25462/Omy/1234/34607
-#EXTINF:-1 tvg-id="CanalEstrellas.es" tvg-name="MEX - CANAL DE LAS ESTRELLAS" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" group-title="MEXICO",MEX - CANAL DE LAS ESTRELLAS
-http://tv.nousiptv.com:25462/Omy/1234/3243
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MEX - EL CANAL DE LAS ESTRELLAS HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_01/medium.5885442634ba9_LasEstrellas2017.png.8afa54dc20f835382e86984dfa3c1434.png" group-title="MEXICO",MEX - EL CANAL DE LAS ESTRELLAS HD
-http://tv.nousiptv.com:25462/Omy/1234/4030
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX - AZTECA 7" tvg-logo="http://www.mediafire.com/convkey/2a33/c51x50aj2ejze31zg.jpg" group-title="MEXICO",MEX - AZTECA 7
-http://tv.nousiptv.com:25462/Omy/1234/3215
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX - AZTECA 7 FHD" tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/azteca-7-hd.jpg" group-title="MEXICO",MEX - AZTECA 7 FHD
-http://tv.nousiptv.com:25462/Omy/1234/4027
-#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="MEX - AZTECA UNO" tvg-logo="http://www.mediafire.com/convkey/30ff/y533x36z9mjee5ezg.jpg" group-title="MEXICO",MEX - AZTECA UNO
-http://tv.nousiptv.com:25462/Omy/1234/3216
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MEX - AZTECA UNO HD" tvg-logo="http://www.mediafire.com/convkey/30ff/y533x36z9mjee5ezg.jpg" group-title="MEXICO",MEX - AZTECA UNO HD
-http://tv.nousiptv.com:25462/Omy/1234/4087
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MEX - CANAL 5" tvg-logo="http://www.mediafire.com/convkey/4579/wf556q76db9iubmzg.jpg" group-title="MEXICO",MEX - CANAL 5
-http://tv.nousiptv.com:25462/Omy/1234/3244
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MEX - CANAL 5 FHD" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="MEXICO",MEX - CANAL 5 FHD
-http://tv.nousiptv.com:25462/Omy/1234/4028
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="MEX - TDN HD" tvg-logo="http://images.mi.tv/channels/mx_tdn-hd_m.png" group-title="MEXICO",MEX - TDN HD
-http://tv.nousiptv.com:25462/Omy/1234/3397
-#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MEX - FORO TV" tvg-logo="http://i2.esmas.com/2016/08/23/884902/foro-tv-280x370.jpg" group-title="MEXICO",MEX - FORO TV
-http://tv.nousiptv.com:25462/Omy/1234/4029
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="MEX - UNICABLE" tvg-logo="http://www.mediafire.com/convkey/6dcc/1fnovk5z72sbxl4zg.jpg" group-title="MEXICO",MEX - UNICABLE
-http://tv.nousiptv.com:25462/Omy/1234/3230
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="MEX - UNICABLE FHD" tvg-logo="https://4.bp.blogspot.com/-OVdU_S0pcvI/WFgWJLHiVxI/AAAAAAAAAbI/NpVTN_iHpQUE1zv3zVCoLBh8v4vW4teTwCLcB/s1600/unicable-en-vivo.jpg" group-title="MEXICO",MEX - UNICABLE FHD
-http://tv.nousiptv.com:25462/Omy/1234/4052
-#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MEX - ADN 40" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large.58c547d552942_XHTVM-ADN40.png.bc83280d75016331f3449af51be5ecba.png" group-title="MEXICO",MEX - ADN 40
-http://tv.nousiptv.com:25462/Omy/1234/4025
-#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MEX - PROYECTO 40 FHD" tvg-logo="http://www.mediafire.com/convkey/6413/otx2tvxlay51l4vzg.jpg" group-title="MEXICO",MEX - PROYECTO 40 FHD
-http://tv.nousiptv.com:25462/Omy/1234/3185
-#EXTINF:-1 tvg-id="" tvg-name="MEX - AFIZZIONADOS" tvg-logo="http://www.mediafire.com/convkey/19be/9cqzv9cqu8avt7vzg.jpg" group-title="MEXICO",MEX - AFIZZIONADOS
-http://tv.nousiptv.com:25462/Omy/1234/8248
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MEX - AZ MUNDO" tvg-logo="http://www.mediafire.com/convkey/002a/n26087q8vanhd6kzg.jpg" group-title="MEXICO",MEX - AZ MUNDO
-http://tv.nousiptv.com:25462/Omy/1234/3087
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MEX - AZ MUNDO FHD" tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO",MEX - AZ MUNDO FHD
-http://tv.nousiptv.com:25462/Omy/1234/4055
-#EXTINF:-1 tvg-id="" tvg-name="MEX - 52 MX" tvg-logo="http://www.mastv.com.mx/images/52MX.png" group-title="MEXICO",MEX - 52 MX
-http://tv.nousiptv.com:25462/Omy/1234/33368
-#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="MEX - AZ CINEMA" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2017/01/azteca13.png" group-title="MEXICO",MEX - AZ CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/2954
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MEX - AZ CINEMA FHD" tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-cinema-300x225.jpg" group-title="MEXICO",MEX - AZ CINEMA FHD
-http://tv.nousiptv.com:25462/Omy/1234/4086
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MEX - AZ CLICK" tvg-logo="http://www.mediafire.com/convkey/bbf4/pv804t6ncsd7audzg.jpg" group-title="MEXICO",MEX - AZ CLICK
-http://tv.nousiptv.com:25462/Omy/1234/3245
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MEX - AZ CORAZON" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="MEXICO",MEX - AZ CORAZON
-http://tv.nousiptv.com:25462/Omy/1234/4026
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MEX - CANAL ONCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png/172px-Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="MEXICO",MEX - CANAL ONCE
-http://tv.nousiptv.com:25462/Omy/1234/3269
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="MEX - DISTRITO COMEDIA" tvg-logo="http://www.mediafire.com/convkey/0463/7hy2egso4onde2tzg.jpg" group-title="MEXICO",MEX - DISTRITO COMEDIA
-http://tv.nousiptv.com:25462/Omy/1234/3209
-#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MEX - GALA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Gala_TV_logo_2013.png" group-title="MEXICO",MEX - GALA TV
-http://tv.nousiptv.com:25462/Omy/1234/4031
-#EXTINF:-1 tvg-id="" tvg-name="MEX - HAVOC" tvg-logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="MEXICO",MEX - HAVOC
-http://tv.nousiptv.com:25462/Omy/1234/33362
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MEX - IMAGEN TV" tvg-logo="http://urbanopuebla.com.mx/media/k2/items/cache/d433202dd708ff711a72952d0a2b333a_XL.jpg" group-title="MEXICO",MEX - IMAGEN TV
-http://tv.nousiptv.com:25462/Omy/1234/4149
-#EXTINF:-1 tvg-id="" tvg-name="MEX - INGENIO TV" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="MEXICO",MEX - INGENIO TV
-http://tv.nousiptv.com:25462/Omy/1234/33358
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MEX - MEXIQUENSE" tvg-logo="http://diseccionmoon.com/wp-content/uploads/2015/01/SDXF.jpg" group-title="MEXICO",MEX - MEXIQUENSE
-http://tv.nousiptv.com:25462/Omy/1234/3182
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MEX - MILENIO TV" tvg-logo="http://www.mediafire.com/convkey/3653/ckx9otar41zm4clzg.jpg" group-title="MEXICO",MEX - MILENIO TV
-http://tv.nousiptv.com:25462/Omy/1234/3233
-#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MEX - MULTIMEDIOS MONTERREY" tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="MEXICO",MEX - MULTIMEDIOS MONTERREY
-http://tv.nousiptv.com:25462/Omy/1234/4125
-#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MEX - MULTIMEDIOS MONTERREY FHD" tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="MEXICO",MEX - MULTIMEDIOS MONTERREY FHD
-http://tv.nousiptv.com:25462/Omy/1234/4033
-#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MEX - MULTIMEDIOS MONTERREY PLUS" tvg-logo="https://www.izzi.mx/bcanales/img/canal1495.png" group-title="MEXICO",MEX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nousiptv.com:25462/Omy/1234/4034
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MEX - ONCE TV FHD" tvg-logo="https://i.blogs.es/8cd3f6/logooncetv/original.jpg" group-title="MEXICO",MEX - ONCE TV FHD
-http://tv.nousiptv.com:25462/Omy/1234/4035
-#EXTINF:-1 tvg-id="" tvg-name="MEX - SURES TV" tvg-logo="http://supercabledelsureste.com.mx/wp-content/uploads/2018/12/sures-tv-300x202.png" group-title="MEXICO",MEX - SURES TV
-http://tv.nousiptv.com:25462/Omy/1234/33366
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MEX - TELEFORMULA" tvg-logo="http://airecable.com/wp-content/uploads/2013/09/TELEFORMULA.png" group-title="MEXICO",MEX - TELEFORMULA
-http://tv.nousiptv.com:25462/Omy/1234/4129
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MEX - TELEFORMULA FHD" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/TeleFormula.jpg" group-title="MEXICO",MEX - TELEFORMULA FHD
-http://tv.nousiptv.com:25462/Omy/1234/4036
-#EXTINF:-1 tvg-id="TeleNovelasLatinAmerica.pa" tvg-name="MEX - TL TELENOVELAS" tvg-logo="https://mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg" group-title="MEXICO",MEX - TL TELENOVELAS
-http://tv.nousiptv.com:25462/Omy/1234/4130
-#EXTINF:-1 tvg-id="" tvg-name="MEX - TELEVISA MTY" tvg-logo="http://empresasmonterrey.com/wp-content/uploads/2015/06/TELEVISA-MONTERREY.jpg" group-title="MEXICO",MEX - TELEVISA MTY
-http://tv.nousiptv.com:25462/Omy/1234/4066
-#EXTINF:-1 tvg-id="" tvg-name="MEX - TV4" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO",MEX - TV4
-http://tv.nousiptv.com:25462/Omy/1234/33367
-#EXTINF:-1 tvg-id="TVC.mx" tvg-name="MEX - TVC" tvg-logo="http://www.pctvcanales.mx/Portals/_default/Skins/Incredible/css/tvc/logotipo-tvc-networks.png" group-title="MEXICO",MEX - TVC
-http://tv.nousiptv.com:25462/Omy/1234/4105
-#EXTINF:-1 tvg-id="" tvg-name="MEX - TV MAS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="MEXICO",MEX - TV MAS
-http://tv.nousiptv.com:25462/Omy/1234/33365
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - GARFIELD" tvg-logo="" group-title="CANALES 24/7",24/7 - GARFIELD
-http://tv.nousiptv.com:25462/Omy/1234/18577
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL OCHO" tvg-logo="https://www.pinclipart.com/picdir/middle/21-214492_el-chavo-animado-chavo-logo-clipart.png" group-title="CANALES 24/7",24/7 EL CHAVO DEL OCHO
-http://tv.nousiptv.com:25462/Omy/1234/18576
-#EXTINF:-1 tvg-id="" tvg-name="MX - APRENDE TV PRIMARIA" tvg-logo="http://www.vancouversun.com/sports/cms/binary/7602116.jpg" group-title="MEXICO",MX - APRENDE TV PRIMARIA
-http://tv.nousiptv.com:25462/Omy/1234/18575
-#EXTINF:-1 tvg-id="" tvg-name="MX - TV UNAM" tvg-logo="http://www.unamglobal.unam.mx/wp-content/uploads/2018/02/TV-UNAM-1.jpg" group-title="MEXICO",MX - TV UNAM
-http://tv.nousiptv.com:25462/Omy/1234/18574
-#EXTINF:-1 tvg-id="" tvg-name="A PLUS" tvg-logo="http://www.vancouversun.com/sports/cms/binary/7602116.jpg" group-title="MEXICO",A PLUS
-http://tv.nousiptv.com:25462/Omy/1234/18573
-#EXTINF:-1 tvg-id="" tvg-name="MYC - DISCOVERY  CIVILIZACIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY  CIVILIZACIÓN
-http://tv.nousiptv.com:25462/Omy/1234/6020
-#EXTINF:-1 tvg-id="" tvg-name="MEX - UNO MVS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="MEXICO",MEX - UNO MVS TV
-http://tv.nousiptv.com:25462/Omy/1234/6022
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL - NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg" group-title="• USA SPORTS VIP •",NHL - NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4015
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - FISHING NETWORK" tvg-logo="https://pbs.twimg.com/profile_images/714039793567604736/vwbSZlx-.jpg" group-title="USA SPORTS",US.SP - FISHING NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3691
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="US.SP - ELEVEN SPORTS" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2017/03/eleven-sports-network.png" group-title="USA SPORTS",US.SP - ELEVEN SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/3758
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - ESPN" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="USA SPORTS",US.SP - ESPN
-http://tv.nousiptv.com:25462/Omy/1234/3371
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - ESPN 2" tvg-logo="http://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2012/01/espn2logo.jpg" group-title="USA SPORTS",US.SP - ESPN 2
-http://tv.nousiptv.com:25462/Omy/1234/3372
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - FIGHT CHANNEL" tvg-logo="http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png" group-title="USA SPORTS",US.SP - FIGHT CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3380
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - FIGHT NETWORK" tvg-logo="http://www.mediafire.com/convkey/50e2/yq8fo894yjppeg8zg.jpg" group-title="USA SPORTS",US.SP - FIGHT NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3378
-#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="US.SP - FOX SOCCER PLUS" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2013/09/foxsoccer.jpg" group-title="USA SPORTS",US.SP - FOX SOCCER PLUS
-http://tv.nousiptv.com:25462/Omy/1234/3754
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US.SP - FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="USA SPORTS",US.SP - FOX SPORTS 1
-http://tv.nousiptv.com:25462/Omy/1234/2048
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US.SP - FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="USA SPORTS",US.SP - FOX SPORTS 2
-http://tv.nousiptv.com:25462/Omy/1234/2044
-#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="US.SP - FOX SPORTS SUN" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/31/Fox_Sports_Sun.png/revision/latest?cb=20151029022651" group-title="USA SPORTS",US.SP - FOX SPORTS SUN
-http://tv.nousiptv.com:25462/Omy/1234/3707
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - FS1 HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-Grid.jpg" group-title="USA SPORTS",US.SP - FS1 HD
-http://tv.nousiptv.com:25462/Omy/1234/17418
-#EXTINF:-1 tvg-id="" tvg-name="US.ET - GAME SHOW NETWORK" tvg-logo="https://www.brandeps.com/logo-download/F/FS2-Fox-Sports2-01.png" group-title="USA SPORTS",US.ET - GAME SHOW NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/17419
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="US.SP - GOL TV ENGLISH" tvg-logo="https://1.bp.blogspot.com/-laPPG1rJj3Y/V7nQlIFe-LI/AAAAAAAACEw/E3jFA9vIwaI68cC0RYX0MKs77ViUPFbhQCLcB/s1600/420577_300.jpg" group-title="USA SPORTS",US.SP - GOL TV ENGLISH
-http://tv.nousiptv.com:25462/Omy/1234/3756
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US.SP - NBC GOLF" tvg-logo="http://tvbtn.files.wordpress.com/2015/01/new_golf_channel_logo_304.jpg" group-title="USA SPORTS",US.SP - NBC GOLF
-http://tv.nousiptv.com:25462/Omy/1234/3752
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - PAC 12 ARIZONA" tvg-logo="https://pbs.twimg.com/profile_images/875397322422706176/R3y9mWl-.jpg" group-title="USA SPORTS",US.SP - PAC 12 ARIZONA
-http://tv.nousiptv.com:25462/Omy/1234/3799
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - PAC 12 BAY AREA" tvg-logo="https://pbs.twimg.com/profile_images/875397322422706176/R3y9mWl-.jpg" group-title="USA SPORTS",US.SP - PAC 12 BAY AREA
-http://tv.nousiptv.com:25462/Omy/1234/3368
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - PAC 12 LOS ANGELES" tvg-logo="https://pbs.twimg.com/profile_images/875397322422706176/R3y9mWl-.jpg" group-title="USA SPORTS",US.SP - PAC 12 LOS ANGELES
-http://tv.nousiptv.com:25462/Omy/1234/3364
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - PAC 12 MOUNTAIN" tvg-logo="https://pbs.twimg.com/profile_images/875397322422706176/R3y9mWl-.jpg" group-title="USA SPORTS",US.SP - PAC 12 MOUNTAIN
-http://tv.nousiptv.com:25462/Omy/1234/3369
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - PAC 12 NETWORK" tvg-logo="https://pbs.twimg.com/profile_images/875397322422706176/R3y9mWl-.jpg" group-title="USA SPORTS",US.SP - PAC 12 NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3375
-#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="US.SP - PAC 12 OREGON" tvg-logo="https://pbs.twimg.com/profile_images/875397322422706176/R3y9mWl-.jpg" group-title="USA SPORTS",US.SP - PAC 12 OREGON
-http://tv.nousiptv.com:25462/Omy/1234/3374
-#EXTINF:-1 tvg-id="PAC12Washington.us" tvg-name="US.SP - PAC 12 WASHINGTON" tvg-logo="https://pbs.twimg.com/profile_images/875397322422706176/R3y9mWl-.jpg" group-title="USA SPORTS",US.SP - PAC 12 WASHINGTON
-http://tv.nousiptv.com:25462/Omy/1234/3373
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="US.SP - TBS" tvg-logo="https://pmcvariety.files.wordpress.com/2016/08/tbs-logo.jpg" group-title="USA SPORTS",US.SP - TBS
-http://tv.nousiptv.com:25462/Omy/1234/17891
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - TENNIS CHANNEL" tvg-logo="https://static-25.sinclairstoryline.com/resources/assets/tennischannel/images/TennisChannel.whiteBg.png" group-title="USA SPORTS",US.SP - TENNIS CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3791
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - TSN SPORT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Tsn-logo.png" group-title="USA SPORTS",US.SP - TSN SPORT 1 HD
-http://tv.nousiptv.com:25462/Omy/1234/3363
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - TSN SPORT 2 HD" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/TSN2HD.png" group-title="USA SPORTS",US.SP - TSN SPORT 2 HD
-http://tv.nousiptv.com:25462/Omy/1234/3362
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - TSN SPORT 4 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png" group-title="USA SPORTS",US.SP - TSN SPORT 4 HD
-http://tv.nousiptv.com:25462/Omy/1234/3360
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - VIP GOLF CHANNEL" tvg-logo="https://www.ohlclassic.com/assets/images/golf-channel-la-logo.jpg" group-title="USA SPORTS",US.SP - VIP GOLF CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/17602
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - WWE HD" tvg-logo="http://www.mediafire.com/convkey/7c87/d1od9hrv8zu1uv7zg.jpg" group-title="USA SPORTS",US.SP - WWE HD
-http://tv.nousiptv.com:25462/Omy/1234/3426
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="US.SP - NBC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="USA SPORTS",US.SP - NBC SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/3709
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - BTN" tvg-logo="https://bigtennetworks.files.wordpress.com/2017/09/btn_logo_kit_page_4a.jpg?w=970&h=546&crop=1" group-title="USA SPORTS",US.SP - BTN
-http://tv.nousiptv.com:25462/Omy/1234/3750
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - TSN SPORT 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png" group-title="USA SPORTS",US.SP - TSN SPORT 3 HD
-http://tv.nousiptv.com:25462/Omy/1234/3361
-#EXTINF:-1 tvg-id="" tvg-name="US.SP - TVG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/1200px-TVG_logo.svg.png" group-title="USA SPORTS",US.SP - TVG
-http://tv.nousiptv.com:25462/Omy/1234/36759
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MUS - MTV LATINO" tvg-logo="http://www.mediafire.com/convkey/d43d/hdw45bt9q212hv0zg.jpg" group-title="MUSICALES",MUS - MTV LATINO
-http://tv.nousiptv.com:25462/Omy/1234/3192
-#EXTINF:-1 tvg-id="" tvg-name="MUS - CONCERT CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="MUSICALES",MUS - CONCERT CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/23236
-#EXTINF:-1 tvg-id="" tvg-name="MUS - MTV HITS" tvg-logo="http://www.mediafire.com/convkey/071f/ny8s2kvq9g8wai4zg.jpg" group-title="MUSICALES",MUS - MTV HITS
-http://tv.nousiptv.com:25462/Omy/1234/3191
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="MUS - BANDAMAX" tvg-logo="http://www.mediafire.com/convkey/ef43/hhiyverbq8389wczg.jpg" group-title="MUSICALES",MUS - BANDAMAX
-http://tv.nousiptv.com:25462/Omy/1234/3086
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MUS - MTV LIVE" tvg-logo="http://www.mediafire.com/convkey/dde9/7fi4s53s331faxgzg.jpg" group-title="MUSICALES",MUS - MTV LIVE
-http://tv.nousiptv.com:25462/Omy/1234/3072
-#EXTINF:-1 tvg-id="" tvg-name="MUS - MUSIC TOP" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="MUSICALES",MUS - MUSIC TOP
-http://tv.nousiptv.com:25462/Omy/1234/7823
-#EXTINF:-1 tvg-id="" tvg-name="MUS - RETRO TV" tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/musica/retrotv.png" group-title="MUSICALES",MUS - RETRO TV
-http://tv.nousiptv.com:25462/Omy/1234/23235
-#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="MUS - TELEHIT URBANO" tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/logo-ritmoson1.png" group-title="MUSICALES",MUS - TELEHIT URBANO
-http://tv.nousiptv.com:25462/Omy/1234/3960
-#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="MUS - TELEHIT" tvg-logo="http://www.mediafire.com/convkey/7340/rurjmeweixp1j98zg.jpg" group-title="MUSICALES",MUS - TELEHIT
-http://tv.nousiptv.com:25462/Omy/1234/3064
-#EXTINF:-1 tvg-id="" tvg-name="MUS - TELERITMO" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/teleritmo/teleritmo-logo.png" group-title="MUSICALES",MUS - TELERITMO
-http://tv.nousiptv.com:25462/Omy/1234/7821
-#EXTINF:-1 tvg-id="VH1.mx" tvg-name="MUS - VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Vh1logo_old.jpg" group-title="MUSICALES",MUS - VH1
-http://tv.nousiptv.com:25462/Omy/1234/4132
-#EXTINF:-1 tvg-id="VH1.mx" tvg-name="MUS - VH1 CLASSIC" tvg-logo="https://i.pinimg.com/236x/74/c4/23/74c4239a422264ad545f26301fe76ef1--usa-tv-tv-channels.jpg" group-title="MUSICALES",MUS - VH1 CLASSIC
-http://tv.nousiptv.com:25462/Omy/1234/4133
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINE INFANTIL 03" tvg-logo="https://img.webme.com/pic/d/directv2012/ppv3.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINE INFANTIL 03
-http://tv.nousiptv.com:25462/Omy/1234/29415
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 01 FHD (ES)" tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 01 FHD (ES)
-http://tv.nousiptv.com:25462/Omy/1234/7964
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 02 FHD (ES)" tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 02 FHD (ES)
-http://tv.nousiptv.com:25462/Omy/1234/7965
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 03 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 03 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8007
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 04 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 04 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8006
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 05 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 05 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8005
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 06 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 06 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8004
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 07 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 07 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8003
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 08 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 08 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8002
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 09 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 09 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8001
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 10 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 10 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8000
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 11 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 11 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7999
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 12 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 12 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7998
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 13 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 13 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7997
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 14 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 14 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7996
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 15 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 15 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7995
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 16 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 16 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7994
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 17 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 17 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7993
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 18 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 18 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7992
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 19 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 19 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7991
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 20 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 20 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7990
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 21 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 21 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7989
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 22 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 22 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7988
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 23 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 23 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7987
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 24 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 24 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7986
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 25 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 25 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7985
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 26 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 26 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7984
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 27 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 27 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7983
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 28 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 28 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7982
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 29 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 29 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7981
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 30 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 30 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7980
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 31 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 31 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7979
-#EXTINF:-1 tvg-id="" tvg-name="PPV - CINEMA 32 FHD (ES)." tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/52/125411/0ae259072e0e294b95ea343521f44216-original.png" group-title="• PPV CINE FHD (ES) • (TEST)",PPV - CINEMA 32 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7977
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - DRAGON BALL SUPER" tvg-logo="https://www.logolynx.com/images/logolynx/54/54e01fe6a80adf73f2e3d02dca230f15.jpeg" group-title="CANALES 24/7",24/7 - DRAGON BALL SUPER
-http://tv.nousiptv.com:25462/Omy/1234/29406
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - FUTURAMA" tvg-logo="http://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="CANALES 24/7",24/7 - FUTURAMA
-http://tv.nousiptv.com:25462/Omy/1234/29407
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - LOONEY TUNES" tvg-logo="https://www.pinclipart.com/picdir/middle/338-3385747_shauna-roe-looney-tunes-the-bugs-bunny-looney.png" group-title="CANALES 24/7",24/7 - LOONEY TUNES
-http://tv.nousiptv.com:25462/Omy/1234/29409
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - LOS SIMPSON HD" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/thumb-los-simpson_unve.jpg" group-title="CANALES 24/7",24/7 - LOS SIMPSON HD
-http://tv.nousiptv.com:25462/Omy/1234/29412
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - MUCHO FLOW" tvg-logo="https://pbs.twimg.com/profile_images/1497860108/mucho-flow_400x400.jpg" group-title="CANALES 24/7",24/7 - MUCHO FLOW
-http://tv.nousiptv.com:25462/Omy/1234/29410
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  CAILLOU
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/872
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/873
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  CUENTOS GREEM
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/874
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/875
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  DRAGON BALL 1984
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/876
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  LOS SIMPSON
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/877
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  SOUTH PARK
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/878
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  THE WALKING DEAD
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/879
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 ALF
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/880
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 AÑOS MARAVILLOSOS 1988
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/881
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 BARNY Y SUS AMIGOS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/882
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 BATMAN 1966 RETRO
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/883
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 BOB ESPONJA
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/884
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 BREAKING  BAD
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/885
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/886
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 CANTINFLAS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/887
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 CSI: MIAMI
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/889
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Death note
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/890
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/891
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 DRAGON  BALL SUPER
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/892
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 DRAGON BALL GT 1996
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/893
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 DRAGON BALL Z 1989
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/894
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 El Avispón Verde
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/895
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/896
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 EL CHAVO DEL 8
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/897
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 EL CHEMA
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/898
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/899
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 EL PATON DEL MAL
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/900
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 EL SEÑOR DE LOS CIELOS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/901
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 FUTURAMA 1999
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/902
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 HAPPY TREE FRIENDS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/903
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 He-Man
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/904
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 HÉROES EN PIJAMAS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/905
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 JUEGO DE TRONOS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/906
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LA CASA DE PAPEL
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/907
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LA FAMILIA MONSTERS 1964
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/908
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LA HORA PICO
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/909
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LA PANTERA ROSA
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/910
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LA RISA EN VACIONES
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/911
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/912
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LAZY TOWN
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/913
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/914
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LOS LOCOS ADDAMS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/915
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/916
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/917
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Mazinger Z
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/918
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Naruto
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/919
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Peliculas de terror
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/920
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/921
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 PEPPA PIG
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/922
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 PINKY y CEREBRO
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/923
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Pokémon
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/924
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 POWER RANGERS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/925
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 ROBOTECH
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/926
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 SAILOR MOON
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/927
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Shark Tank México TEP 1
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/928
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Shark Tank México TEP 2
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/929
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 SHERA
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/930
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 SMALLVILLE
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/931
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 SPIDER-MAN
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/932
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 STRANGER THINGS
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/933
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 SUPER CAMPEONES
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/934
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 THUNDERCAST
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/935
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 XMEN ANIME
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/936
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", url vencida
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/2119
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 CASO CERRADO "SEXUALIDAD"
+http://zufreelist.net:8080/m3um3um3um3um3um3u/m3um3um3um3um3um3u/888
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", az cinema
+http://gangafree.com:25461/97071975/52176761/38536
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", cine canal
+http://gangafree.com:25461/97071975/52176761/38549
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", cinemax
+http://gangafree.com:25461/97071975/52176761/38437
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", cinemax
+http://gangafree.com:25461/97071975/52176761/38550
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", fox premium cinema
+http://gangafree.com:25461/97071975/52176761/38470
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", fox premium cinema
+http://gangafree.com:25461/97071975/52176761/38583
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE HD | HBO Xtreme
+http://gangafree.com:25461/97071975/52176761/7760
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | CINECANAL
+http://gangafree.com:25461/97071975/52176761/7764
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | CINEMA DINAMITA
+http://gangafree.com:25461/97071975/52176761/7765
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | CINEMAX
+http://gangafree.com:25461/97071975/52176761/7766
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX
+http://gangafree.com:25461/97071975/52176761/7769
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX LIFE
+http://gangafree.com:25461/97071975/52176761/7770
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX PREMIUM ACTION
+http://gangafree.com:25461/97071975/52176761/7771
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX PREMIUM CINEMA
+http://gangafree.com:25461/97071975/52176761/7772
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX PREMIUM CLASSIC
+http://gangafree.com:25461/97071975/52176761/7773
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX PREMIUM COMEDY
+http://gangafree.com:25461/97071975/52176761/7774
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX PREMIUM FAMILY
+http://gangafree.com:25461/97071975/52176761/7775
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX PREMIUM MOVIES
+http://gangafree.com:25461/97071975/52176761/7776
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FOX PREMIUM SERIES
+http://gangafree.com:25461/97071975/52176761/7777
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FX
+http://gangafree.com:25461/97071975/52176761/7778
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | FXM
+http://gangafree.com:25461/97071975/52176761/7779
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | GOLDEN
+http://gangafree.com:25461/97071975/52176761/7780
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | GOLDEN EDGE
+http://gangafree.com:25461/97071975/52176761/7781
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | HBO
+http://gangafree.com:25461/97071975/52176761/7782
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | HBO 2
+http://gangafree.com:25461/97071975/52176761/7783
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | HBO FAMILY
+http://gangafree.com:25461/97071975/52176761/7784
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | HBO MUNDI
+http://gangafree.com:25461/97071975/52176761/7787
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | HBO PLUS
+http://gangafree.com:25461/97071975/52176761/7785
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | HBO SIGNATURE
+http://gangafree.com:25461/97071975/52176761/7786
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | PARAMOUNT CHANNEL
+http://gangafree.com:25461/97071975/52176761/7788
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | SONY
+http://gangafree.com:25461/97071975/52176761/7789
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | SPACE
+http://gangafree.com:25461/97071975/52176761/7790
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | STAR TVE
+http://gangafree.com:25461/97071975/52176761/7791
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | TBS
+http://gangafree.com:25461/97071975/52176761/7792
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | TCM
+http://gangafree.com:25461/97071975/52176761/7793
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | TNT
+http://gangafree.com:25461/97071975/52176761/7794
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", TE CINE | TNT SERIES
+http://gangafree.com:25461/97071975/52176761/7795
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", discovery channel
+http://gangafree.com:25461/97071975/52176761/38444
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", discovery civilization
+http://gangafree.com:25461/97071975/52176761/38442
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", discovery h&h
+http://gangafree.com:25461/97071975/52176761/38446
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", Discovery Sci
+http://gangafree.com:25461/97071975/52176761/38449
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", Discovery Theater
+http://gangafree.com:25461/97071975/52176761/38450
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", discovery tlc
+http://gangafree.com:25461/97071975/52176761/38451
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", discovery turbo
+http://gangafree.com:25461/97071975/52176761/38452
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", Discovery World
+http://gangafree.com:25461/97071975/52176761/38453
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", history channel
+http://gangafree.com:25461/97071975/52176761/38490
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", investigation discovery
+http://gangafree.com:25461/97071975/52176761/38447
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA | Discovery Channel | Cultural
+http://gangafree.com:25461/97071975/52176761/7798
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA | Discovery Science | Cultural
+http://gangafree.com:25461/97071975/52176761/7800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA | Discovery Theater | Cultural
+http://gangafree.com:25461/97071975/52176761/7801
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA | Discovery Turbo | Cultural
+http://gangafree.com:25461/97071975/52176761/7802
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA | Discovery World | Cultural
+http://gangafree.com:25461/97071975/52176761/7803
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA | Investigation Discovery | Cultural
+http://gangafree.com:25461/97071975/52176761/7804
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA || Discovery en Español
+http://gangafree.com:25461/97071975/52176761/7812
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Channel HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7832
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Channel SD | Cultural
+http://gangafree.com:25461/97071975/52176761/7823
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Civilization HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7829
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Civilization SD | Cultural
+http://gangafree.com:25461/97071975/52176761/7818
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery H&H HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7821
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery H&H SD | Cultural
+http://gangafree.com:25461/97071975/52176761/7799
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery SCI SD | Cultural
+http://gangafree.com:25461/97071975/52176761/7819
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Science HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7830
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Theater HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7834
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Theater SD | Cultural
+http://gangafree.com:25461/97071975/52176761/7825
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Discovery Turbo HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7837
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | History CHANNEL HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7810
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | History CHANNEL | Cultural
+http://gangafree.com:25461/97071975/52176761/7806
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", animal planet
+http://gangafree.com:25461/97071975/52176761/38532
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", LA | Animal Planet | Cultural
+http://gangafree.com:25461/97071975/52176761/7797
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Animal Planet HD | Cultural
+http://gangafree.com:25461/97071975/52176761/7838
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CULTURA", MX | Animal Planet SD | Cultural
+http://gangafree.com:25461/97071975/52176761/7822
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="DISTRO USA", Bollywood TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="DISTRO USA", BritAsia Live
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PbpvywI.png" group-title="DISTRO USA", BYUtv
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rAkIuW1.png" group-title="DISTRO USA", Cycle World
+http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IUJSWSf.png" group-title="DISTRO USA", ElectricNOW
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qoKlYt3.png" group-title="DISTRO USA", Field & Stream
+http://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="DISTRO USA", Fighting Spirit
+https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/L0aXwHX.png" group-title="DISTRO USA", Gusto TV
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FwXJj0L.png" group-title="DISTRO USA", Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/q1JeHsc.png" group-title="DISTRO USA", IDG
+http://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/woRgqEh.png" group-title="DISTRO USA", Latido Music TV
+https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="DISTRO USA", MMA Junkie
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="DISTRO USA", Monarch TV
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sIXA1mh.png" group-title="DISTRO USA", Motorcyclist
+http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="DISTRO USA", Movie Kingdom TV
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sXsyc1o.png" group-title="DISTRO USA", Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fY0d5DK.png" group-title="DISTRO USA", People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="DISTRO USA", Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0MqKbJ.png" group-title="DISTRO USA", Saveur
+http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/X72z8BW.png" group-title="DISTRO USA", Sportskool TV
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mYGNZ0A.png" group-title="DISTRO USA", Studio C TV
+https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/55vA85a.png" group-title="DISTRO USA", The Boat Show TV
+https://a.jsrdn.com/broadcast/22706/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nCB6LNt.png" group-title="DISTRO USA", The Film Detective TV
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_640x360.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uIZpZky.png" group-title="DISTRO USA", Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="DISTRO USA", Venus TV
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oitvOug.png" group-title="DISTRO USA", World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", boomerang
+http://gangafree.com:25461/97071975/52176761/38434
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", Bratz Kidz. Fiesta de pijamas
+http://gangafree.com:25461/movie/97071975/52176761/4182.mp4?cat=infantil
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", Cartoon Network
+http://gangafree.com:25461/97071975/52176761/38548
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", discovery kids
+http://gangafree.com:25461/97071975/52176761/38561
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | Boomerang HD
+http://gangafree.com:25461/97071975/52176761/7743
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | CARTOON NETWORK HD
+http://gangafree.com:25461/97071975/52176761/7744
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | BABY TV HD
+http://gangafree.com:25461/97071975/52176761/7741
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | BOOMERANG
+http://gangafree.com:25461/97071975/52176761/7742
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | CARTOON NETWORK HD
+http://gangafree.com:25461/97071975/52176761/7744
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | DISCOVERY KIDS HD
+http://gangafree.com:25461/97071975/52176761/7745
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | DISNEY CHANNEL HD
+http://gangafree.com:25461/97071975/52176761/7746
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | DISNEY JR
+http://gangafree.com:25461/97071975/52176761/7747
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | Disney XD
+http://gangafree.com:25461/97071975/52176761/7749
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | NAT GEO KIDS
+http://gangafree.com:25461/97071975/52176761/7751
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | NICK 2
+http://gangafree.com:25461/97071975/52176761/7753
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | NICK 2 HD
+http://gangafree.com:25461/97071975/52176761/7754
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | NICK JR
+http://gangafree.com:25461/97071975/52176761/7755
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | NICKELODEON HD
+http://gangafree.com:25461/97071975/52176761/7756
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | NICKTOONS HD
+http://gangafree.com:25461/97071975/52176761/7757
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | TOONCAST
+http://gangafree.com:25461/97071975/52176761/7758
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NIÑOS", TE INFANTILES | Cartoon Network
+http://gangafree.com:25461/97071975/52176761/7759
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", azteca 7
+http://gangafree.com:25461/97071975/52176761/38410
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", azteca corazon
+http://gangafree.com:25461/97071975/52176761/38428
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", azteca uno
+http://gangafree.com:25461/97071975/52176761/38411
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", CNN
+http://gangafree.com:25461/97071975/52176761/38439
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", cnn esp
+http://gangafree.com:25461/97071975/52176761/38438
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", cnn usa
+http://gangafree.com:25461/97071975/52176761/38440
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", COLOMBIA || CARACOL :)
+http://gangafree.com:25461/97071975/52176761/7880
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", Lat || Usa UniMas Miami
+http://gangafree.com:25461/97071975/52176761/7907
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", Lat || Usa Univision WEST
+http://gangafree.com:25461/97071975/52176761/7905
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", Paramount
+http://gangafree.com:25461/97071975/52176761/38625
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", Puerto Rico | WAPA 2
+http://gangafree.com:25461/97071975/52176761/201
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", Puerto Rico | WAPA PR
+http://gangafree.com:25461/97071975/52176761/200
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", TE CINE | PARAMOUNT CHANNEL
+http://gangafree.com:25461/97071975/52176761/7788
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", TE USA | LA UNIMAS
+http://gangafree.com:25461/97071975/52176761/7915
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", USA | Telemundo Houston
+http://gangafree.com:25461/97071975/52176761/7911
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", USA | Telemundo Los Angeles
+http://gangafree.com:25461/97071975/52176761/7909
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", USA | Telemundo Miami
+http://gangafree.com:25461/97071975/52176761/7910
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", amc
+http://gangafree.com:25461/97071975/52176761/38531
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", TE CINE | AMC
+http://gangafree.com:25461/97071975/52176761/7762
+
