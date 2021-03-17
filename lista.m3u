@@ -1,404 +1,253 @@
-#EXTINF:0 tvg-logo="", MSERIES
-https://srregio.net/Sr_Regio151120/dip.php?c=3&f.m3u8
-#EXTINF:0 tvg-logo="", MESTRENOS
-https://srregio.net/Sr_Regio151120/dip.php?c=4&f.m3u8
-#EXTINF:0 tvg-logo="", MLIGA
-https://srregio.net/Sr_Regio151120/dip.php?c=5&f.m3u8
-#EXTINF:0 tvg-logo="", REAL MADRID
-https://srregio.net/Sr_Regio151120/dip.php?c=6&f.m3u8
-#EXTINF:0 tvg-logo="", SYFY
-https://srregio.net/Sr_Regio151120/dip.php?c=7&f.m3u8
-#EXTINF:0 tvg-logo="", EUROSPORT
-https://srregio.net/Sr_Regio151120/dip.php?c=8&f.m3u8
-#EXTINF:0 tvg-logo="", EUROSPORT 2
-https://srregio.net/Sr_Regio151120/dip.php?c=9&f.m3u8
-#EXTINF:0 tvg-logo="",
-https://srregio.net/Sr_Regio151120/dip.php?c=10&f.m3u8
-#EXTINF:0 tvg-logo="", SKY SPORT HD
-https://srregio.net/Sr_Regio151120/dip.php?c=11&f.m3u8
-#EXTINF:0 tvg-logo="", CNN ESP
-https://srregio.net/Sr_Regio151120/dip.php?c=12&f.m3u8
-#EXTINF:0 tvg-logo="", TRUTV
-https://srregio.net/Sr_Regio151120/dip.php?c=13&f.m3u8
-#EXTINF:0 tvg-logo="", UNICABLE
-https://srregio.net/Sr_Regio151120/dip.php?c=14&f.m3u8
-#EXTINF:0 tvg-logo="", H2
-https://srregio.net/Sr_Regio151120/dip.php?c=15&f.m3u8
-#EXTINF:0 tvg-logo="", NICK JR
-https://srregio.net/Sr_Regio151120/dip.php?c=16&f.m3u8
-#EXTINF:0 tvg-logo="",
-https://srregio.net/Sr_Regio151120/dip.php?c=17&f.m3u8
-#EXTINF:0 tvg-logo="", NICK MUSIC
-https://srregio.net/Sr_Regio151120/dip.php?c=18&f.m3u8
-#EXTINF:0 tvg-logo="", TCM
-https://srregio.net/Sr_Regio151120/dip.php?c=19&f.m3u8
-#EXTINF:0 tvg-logo="",
-https://srregio.net/Sr_Regio151120/dip.php?c=20&f.m3u8
-#EXTINF:0 tvg-logo="", THE SIMPSON
-https://srregio.net/Sr_Regio151120/dip.php?c=21&f.m3u8
-#EXTINF:0 tvg-logo="", DRAGON BALL Z
-https://srregio.net/Sr_Regio151120/dip.php?c=23&f.m3u8
-#EXTINF:0 tvg-logo="", CARTOON NETWORK
-https://srregio.net/Sr_Regio151120/dip.php?c=25&f.m3u8
-#EXTINF:0 tvg-logo="", DISCOVERY WORLD
-https://srregio.net/Sr_Regio151120/dip.php?c=26&f.m3u8
-#EXTINF:0 tvg-logo="", DISCOVERY TEATHER
-https://srregio.net/Sr_Regio151120/dip.php?c=27&f.m3u8
-#EXTINF:0 tvg-logo="", NAT GEO WILD
-https://srregio.net/Sr_Regio151120/dip.php?c=29&f.m3u8
-#EXTINF:0 tvg-logo="", NAT GEO
-https://srregio.net/Sr_Regio151120/dip.php?c=30&f.m3u8
-#EXTINF:0 tvg-logo="", AXN
-https://srregio.net/Sr_Regio151120/dip.php?c=31&f.m3u8
-#EXTINF:0 tvg-logo="", FOX LIFE
-https://srregio.net/Sr_Regio151120/dip.php?c=33&f.m3u8
-#EXTINF:0 tvg-logo="", LAS ESTRELLAS
-https://srregio.net/Sr_Regio151120/dip.php?c=34&f.m3u8
-#EXTINF:0 tvg-logo="", UNIVISION
-https://srregio.net/Sr_Regio151120/dip.php?c=35&f.m3u8
-#EXTINF:0 tvg-logo="", DISTRITO COMEDIA
-https://srregio.net/Sr_Regio151120/dip.php?c=36&f.m3u8
-#EXTINF:0 tvg-logo="", TNT SERIES
-https://srregio.net/Sr_Regio151120/dip.php?c=37&f.m3u8
-#EXTINF:0 tvg-logo="", TNT
-https://srregio.net/Sr_Regio151120/dip.php?c=38&f.m3u8
-#EXTINF:0 tvg-logo="", SPACE
-https://srregio.net/Sr_Regio151120/dip.php?c=39&f.m3u8
-#EXTINF:0 tvg-logo="", FOX MOVIES
-https://srregio.net/Sr_Regio151120/dip.php?c=40&f.m3u8
-#EXTINF:0 tvg-logo="", TLC
-https://srregio.net/Sr_Regio151120/dip.php?c=53&f.m3u8
-#EXTINF:0 tvg-logo="", HBO
-https://srregio.net/Sr_Regio151120/dip.php?c=67&f.m3u8
-
-#EXTINF:0 tvg-logo="", France 24
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:0 tvg-logo="", DW
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0 tvg-logo="", NASA Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:0 tvg-logo="", Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:0 tvg-logo="", MegaTV (PR)
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-#EXTINF:0 tvg-logo="", Azteca UNO 
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/3b3095b0-458a-429d-a267-9ac9467e51bc:BRU/master.m3u8
-#EXTINF:0 tvg-logo="", Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
-#EXTINF:0 tvg-logo="", Vibe TV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:0 tvg-logo="", Canal 6 Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0 tvg-logo="", Canal 6 CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0 tvg-logo="", Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0 tvg-logo="", Canal ONCE
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="", Quiero TV
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:0 tvg-logo="", NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="", Multivision
-https://panel.dattalive.com/8250/8250/.m3u8
-#EXTINF:0 tvg-logo="", RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-#EXTINF:0 tvg-logo="", NexTV
-http://198.1.123.99:1935/live/myStream/.m3u8
-#EXTINF:0 tvg-logo="", Euro Latina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:0 tvg-logo="", Latinos UP
-https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
-#EXTINF:0 tvg-logo="", TOP Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="", ACS Network
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
-#EXTINF:0 tvg-logo="", Adult Swim TV
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
-#EXTINF:0 tvg-logo="", Cachipum TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="", Locomotion
-http://toonxtv.net/hls/loco_ch/stream.m3u8
-#EXTINF:0 tvg-logo="", 93.3 FM
-https://14543.live.streamtheworld.com/XHQQ_FM_SC
-#EXTINF:0 tvg-logo="", 690 RG AM
-https://19303.live.streamtheworld.com/RG690_SC
-#EXTINF:0 tvg-logo="", LA MEJOR 92.5 FM
-https://16643.live.streamtheworld.com/XHSROFM_SC
-#EXTINF:0 tvg-logo="", LA CALIENTE 94.1
-https://14943.live.streamtheworld.com/XETFM_SC
-#EXTINF:0 tvg-logo="", LA LUPE 105.3
-https://16693.live.streamtheworld.com/XHPAGFM_SC
-
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",A&E
-http://srregio.net/Sr_Regio151120/mc.php?c=3&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ADN40
-http://srregio.net/Sr_Regio151120/mc.php?c=5&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AMC
-http://srregio.net/Sr_Regio151120/mc.php?c=6&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Animal Planet
-http://srregio.net/Sr_Regio151120/mc.php?c=7&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AXN
-http://srregio.net/Sr_Regio151120/mc.php?c=9&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AyM Sports
-http://srregio.net/Sr_Regio151120/mc.php?c=10&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Azteca Cinema
-http://srregio.net/Sr_Regio151120/mc.php?c=11&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Azteca Clic
-http://srregio.net/Sr_Regio151120/mc.php?c=12&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Azteca Corazon
-http://srregio.net/Sr_Regio151120/mc.php?c=13&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Azteca Mundo
-http://srregio.net/Sr_Regio151120/mc.php?c=14&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Azteca 7
-http://srregio.net/Sr_Regio151120/mc.php?c=15&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Baby first
-http://srregio.net/Sr_Regio151120/mc.php?c=17&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Bandamax
-http://srregio.net/Sr_Regio151120/mc.php?c=18&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Bloomberg
-http://srregio.net/Sr_Regio151120/mc.php?c=19&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Bloomberg (2)
-http://srregio.net/Sr_Regio151120/mc.php?c=20&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Canal 5
-http://srregio.net/Sr_Regio151120/mc.php?c=21&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Justicia TV
-http://srregio.net/Sr_Regio151120/mc.php?c=22&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Cartoon Network
-http://srregio.net/Sr_Regio151120/mc.php?c=24&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Cinecanal
-http://srregio.net/Sr_Regio151120/mc.php?c=25&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Cinemax
-http://srregio.net/Sr_Regio151120/mc.php?c=26&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CNN Esp
-http://srregio.net/Sr_Regio151120/mc.php?c=27&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Comedy Central
-http://srregio.net/Sr_Regio151120/mc.php?c=30&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",De Pelicula
-http://srregio.net/Sr_Regio151120/mc.php?c=32&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery Channel
-http://srregio.net/Sr_Regio151120/mc.php?c=33&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HGTV
-http://srregio.net/Sr_Regio151120/mc.php?c=34&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",H&H
-http://srregio.net/Sr_Regio151120/mc.php?c=35&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery Kids
-http://srregio.net/Sr_Regio151120/mc.php?c=36&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery Science
-http://srregio.net/Sr_Regio151120/mc.php?c=38&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery Theater
-http://srregio.net/Sr_Regio151120/mc.php?c=39&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery TLC
-http://srregio.net/Sr_Regio151120/mc.php?c=40&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery Turbo
-http://srregio.net/Sr_Regio151120/mc.php?c=42&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery World
-http://srregio.net/Sr_Regio151120/mc.php?c=43&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Disney Channel
-http://srregio.net/Sr_Regio151120/mc.php?c=44&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Disney Jr
-http://srregio.net/Sr_Regio151120/mc.php?c=45&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Disney XD
-http://srregio.net/Sr_Regio151120/mc.php?c=46&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Distrito Comedia
-http://srregio.net/Sr_Regio151120/mc.php?c=47&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",
-http://srregio.net/Sr_Regio151120/mc.php?c=49&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",
-http://srregio.net/Sr_Regio151120/mc.php?c=50&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn 3 Sur
-http://srregio.net/Sr_Regio151120/mc.php?c=53&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn Plus Sur
-http://srregio.net/Sr_Regio151120/mc.php?c=54&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn
-http://srregio.net/Sr_Regio151120/mc.php?c=57&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn MX
-http://srregio.net/Sr_Regio151120/mc.php?c=58&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn 2 sur
-http://srregio.net/Sr_Regio151120/mc.php?c=59&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn plus MX
-http://srregio.net/Sr_Regio151120/mc.php?c=60&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Films & Arts
-http://srregio.net/Sr_Regio151120/mc.php?c=62&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Foodnetwork
-http://srregio.net/Sr_Regio151120/mc.php?c=63&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Channel
-http://srregio.net/Sr_Regio151120/mc.php?c=65&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Life
-http://srregio.net/Sr_Regio151120/mc.php?c=66&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports Sur
-http://srregio.net/Sr_Regio151120/mc.php?c=67&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 2 Sur
-http://srregio.net/Sr_Regio151120/mc.php?c=68&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 3 Sur
-http://srregio.net/Sr_Regio151120/mc.php?c=69&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 1 MX
-http://srregio.net/Sr_Regio151120/mc.php?c=70&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 2 MX
-http://srregio.net/Sr_Regio151120/mc.php?c=71&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 3 MX
-http://srregio.net/Sr_Regio151120/mc.php?c=72&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FX
-http://srregio.net/Sr_Regio151120/mc.php?c=74&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FXM
-http://srregio.net/Sr_Regio151120/mc.php?c=75&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GarageTV
-http://srregio.net/Sr_Regio151120/mc.php?c=77&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Glitz
-http://srregio.net/Sr_Regio151120/mc.php?c=78&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Golden
-http://srregio.net/Sr_Regio151120/mc.php?c=79&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Golden Edge
-http://srregio.net/Sr_Regio151120/mc.php?c=80&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Golf Channel
-http://srregio.net/Sr_Regio151120/mc.php?c=81&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",History Channel
-http://srregio.net/Sr_Regio151120/mc.php?c=83&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Hola TV
-http://srregio.net/Sr_Regio151120/mc.php?c=84&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Discovery ID
-http://srregio.net/Sr_Regio151120/mc.php?c=88&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1", Las Estrellas
-http://srregio.net/Sr_Regio151120/mc.php?c=90&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Lifetime
-http://srregio.net/Sr_Regio151120/mc.php?c=92&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",MTV
-http://srregio.net/Sr_Regio151120/mc.php?c=97&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",MTV (2)
-http://srregio.net/Sr_Regio151120/mc.php?c=98&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",MTV Hits
-http://srregio.net/Sr_Regio151120/mc.php?c=99&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Nat Geo Wild
-http://srregio.net/Sr_Regio151120/mc.php?c=103&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Nick
-http://srregio.net/Sr_Regio151120/mc.php?c=104&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Paramount Channel
-http://srregio.net/Sr_Regio151120/mc.php?c=108&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Space
-http://srregio.net/Sr_Regio151120/mc.php?c=114&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TCM
-http://srregio.net/Sr_Regio151120/mc.php?c=120&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TNT
-http://srregio.net/Sr_Regio151120/mc.php?c=127&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TUDN
-http://srregio.net/Sr_Regio151120/mc.php?c=131&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Unicable
-http://srregio.net/Sr_Regio151120/mc.php?c=137&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1", Claro
-http://srregio.net/Sr_Regio151120/mc.php?c=141&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Claro Sports
-http://srregio.net/Sr_Regio151120/mc.php?c=142&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Concert
-http://srregio.net/Sr_Regio151120/mc.php?c=143&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Cinema
-http://srregio.net/Sr_Regio151120/mc.php?c=144&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Life
-http://srregio.net/Sr_Regio151120/mc.php?c=145&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Action
-http://srregio.net/Sr_Regio151120/mc.php?c=146&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Cinema
-http://srregio.net/Sr_Regio151120/mc.php?c=148&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Classics
-http://srregio.net/Sr_Regio151120/mc.php?c=149&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Comedy
-http://srregio.net/Sr_Regio151120/mc.php?c=150&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Family
-http://srregio.net/Sr_Regio151120/mc.php?c=151&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Movies
-http://srregio.net/Sr_Regio151120/mc.php?c=152&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Series
-http://srregio.net/Sr_Regio151120/mc.php?c=153&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO
-http://srregio.net/Sr_Regio151120/mc.php?c=155&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO 2
-http://srregio.net/Sr_Regio151120/mc.php?c=156&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO Family
-http://srregio.net/Sr_Regio151120/mc.php?c=157&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO Mundi
-http://srregio.net/Sr_Regio151120/mc.php?c=158&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO +
-http://srregio.net/Sr_Regio151120/mc.php?c=159&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO Pop
-http://srregio.net/Sr_Regio151120/mc.php?c=160&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO Xtreme
-http://srregio.net/Sr_Regio151120/mc.php?c=163&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Htv
-http://srregio.net/Sr_Regio151120/mc.php?c=164&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Pasiones
-http://srregio.net/Sr_Regio151120/mc.php?c=165&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Telemundo int
-http://srregio.net/Sr_Regio151120/mc.php?c=166&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Warner
-http://srregio.net/Sr_Regio151120/mc.php?c=167&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Directv Sports
-http://srregio.net/Sr_Regio151120/mc.php?c=168&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DirecTV Sports 2
-http://srregio.net/Sr_Regio151120/mc.php?c=169&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DirecTV Sports +
-http://srregio.net/Sr_Regio151120/mc.php?c=170&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",
-http://srregio.net/Sr_Regio151120/mc.php?c=171&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ECDF
-http://srregio.net/Sr_Regio151120/mc.php?c=172&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Cnt
-http://srregio.net/Sr_Regio151120/mc.php?c=173&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Goltv
-http://srregio.net/Sr_Regio151120/mc.php?c=176/streamtype.
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TA
-http://srregio.net/Sr_Regio151120/mc.php?c=180&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Caracol TV
-http://srregio.net/Sr_Regio151120/mc.php?c=186&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",City TV
-http://srregio.net/Sr_Regio151120/mc.php?c=188&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",RCN
-http://srregio.net/Sr_Regio151120/mc.php?c=191&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TELEFE
-http://srregio.net/Sr_Regio151120/mc.php?c=199&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TV PUBLICA
-http://srregio.net/Sr_Regio151120/mc.php?c=201&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TNT Sports
-http://srregio.net/Sr_Regio151120/mc.php?c=204&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CDF HD
-http://srregio.net/Sr_Regio151120/mc.php?c=209&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CDF
-http://srregio.net/Sr_Regio151120/mc.php?c=210&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CDF Premium
-http://srregio.net/Sr_Regio151120/mc.php?c=211&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Chilevision
-http://srregio.net/Sr_Regio151120/mc.php?c=215&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Multivision
-http://srregio.net/Sr_Regio151120/mc.php?c=219&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",VTV 
-http://srregio.net/Sr_Regio151120/mc.php?c=224&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",LATINA
-http://srregio.net/Sr_Regio151120/mc.php?c=232&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Gol Peru
-http://srregio.net/Sr_Regio151120/mc.php?c=233&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Telemundo
-http://srregio.net/Sr_Regio151120/mc.php?c=243&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Univision
-http://srregio.net/Sr_Regio151120/mc.php?c=244&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",Dragon Ball GT
-http://srregio.net/Sr_Regio151120/mc.php?c=314&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",Dragon Ball 
-http://srregio.net/Sr_Regio151120/mc.php?c=315&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",Dragon Ball Super
-http://srregio.net/Sr_Regio151120/mc.php?c=316&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",Dragon Ball Z
-http://srregio.net/Sr_Regio151120/mc.php?c=317&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",El Chavo del 8
-http://srregio.net/Sr_Regio151120/mc.php?c=318&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",Futurama
-http://srregio.net/Sr_Regio151120/mc.php?c=319&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",La Pantera Rosa
-http://srregio.net/Sr_Regio151120/mc.php?c=320&f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
-http://srregio.net/Sr_Regio151120/mc.php?c=321&f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
-http://srregio.net/Sr_Regio151120/mc.php?c=324&f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="" group-title="24/7",Malcolm El De En Medio
-http://srregio.net/Sr_Regio151120/mc.php?c=326&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",Dra. Juguetes
-http://srregio.net/Sr_Regio151120/mc.php?c=335&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="24/7",Supercampeones
-http://srregio.net/Sr_Regio151120/mc.php?c=340&f.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/3
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/4
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/5
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/6
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="" group-title="24/7",24/7  DRAGON BALL 1984
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/7
+#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/8
+#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="" group-title="24/7",24/7  SOUTH PARK
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/9
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="" group-title="24/7",24/7  THE WALKING DEAD
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/11
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="" group-title="24/7",24/7 BARNY Y SUS AMIGOS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/13
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",24/7 BATMAN 1966 RETRO
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/16
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/17
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/18
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/19
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="" group-title="24/7",24/7 CSI: MIAMI
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/21
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/22
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/23
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON  BALL SUPER" tvg-logo="" group-title="24/7",24/7 DRAGON  BALL SUPER
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/25
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/26
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z 1989" tvg-logo="" group-title="24/7",24/7 DRAGON BALL Z 1989
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/27
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El AvispÃ³n Verde" tvg-logo="" group-title="24/7",24/7 El AvispÃ³n Verde
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/28
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/29
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/30
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/31
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/32
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATON DEL MAL" tvg-logo="" group-title="24/7",24/7 EL PATON DEL MAL
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/33
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tvg-logo="" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/34
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="" group-title="24/7",24/7 FUTURAMA 1999
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/35
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY TREE FRIENDS" tvg-logo="" group-title="24/7",24/7 HAPPY TREE FRIENDS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/36
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/37
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÃ‰ROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/38
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="" group-title="24/7",24/7 JUEGO DE TRONOS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/39
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/40
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/41
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="" group-title="24/7",24/7 LA HORA PICO
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/42
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="" group-title="24/7",24/7 LA PANTERA ROSA
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/44
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA RISA EN VACIONES" tvg-logo="" group-title="24/7",24/7 LA RISA EN VACIONES
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/45
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/46
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="" group-title="24/7",24/7 LAZY TOWN
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/47
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/48
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="" group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/49
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS PICA PIEDRAS" tvg-logo="" group-title="24/7",24/7 LOS PICA PIEDRAS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/50
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/51
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/52
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/53
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/55
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/57
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/58
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="" group-title="24/7",24/7 PEPPA PIG
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/59
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY y CEREBRO" tvg-logo="" group-title="24/7",24/7 PINKY y CEREBRO
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/60
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PokÃ©mon" tvg-logo="" group-title="24/7",24/7 PokÃ©mon
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/61
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="" group-title="24/7",24/7 POWER RANGERS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/62
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="" group-title="24/7",24/7 ROBOTECH
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/63
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="" group-title="24/7",24/7 SAILOR MOON
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/64
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/65
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/66
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="" group-title="24/7",24/7 SHERA
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/67
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="" group-title="24/7",24/7 SMALLVILLE
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/68
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="" group-title="24/7",24/7 SPIDER-MAN
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/69
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="" group-title="24/7",24/7 STRANGER THINGS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/70
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/71
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="" group-title="24/7",24/7 THUNDERCAST
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/72
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="https://images3.alphacoders.com/867/thumb-1920-867349.png" group-title="24/7",24/7 XMEN ANIME
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/73
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:A&E Latinoamerica" tvg-logo="" group-title="ENTRETENIMIENTO",MrZutv.net:A&E Latinoamerica
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/258
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Animal Planet LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Animal Planet LatinoamÃ©rica
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/259
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Axn" tvg-logo="" group-title="SERIES",MrZutv.net:Axn
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/263
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Azteca Uno" tvg-logo="" group-title="MEXICO",MrZutv.net:Azteca Uno
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/265
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Boomerang Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Boomerang Mexico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/267
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Cartoon Network Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Cartoon Network Mexico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/274
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Cinecanal Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Cinecanal Oeste
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/275
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:CineLatino" tvg-logo="" group-title="CINEMA",MrZutv.net:CineLatino
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/276
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:CNN en EspaÃ±ol" tvg-logo="" group-title="NOTICIAS",MrZutv.net:CNN en EspaÃ±ol
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/279
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Channel" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Channel
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/283
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Home & Health" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Home & Health
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/284
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Turbo" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Turbo
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/286
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney Channel MÃ©xico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney Channel MÃ©xico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/287
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney Junior Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney Junior Mexico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/288
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney XD Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney XD Mexico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/289
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FoX Channel" tvg-logo="" group-title="SERIES",MrZutv.net:FoX Channel
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/295
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Action" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Action
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/297
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Family Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Family Oeste
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/300
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Movies" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Movies
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/301
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Series Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Series Oeste
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/302
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FX" tvg-logo="" group-title="SERIES",MrZutv.net:FX
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/306
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FXM Oeste" tvg-logo="" group-title="SERIES",MrZutv.net:FXM Oeste
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/307
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO + Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO + Latinoamerica
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/309
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO 2 Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO 2 Latinoamerica
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/310
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO Family Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO Family Latinoamerica
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/311
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO LatinoamÃ©rica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO LatinoamÃ©rica
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/312
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Hbo Xtreme" tvg-logo="" group-title="CINEMA",MrZutv.net:Hbo Xtreme
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/313
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:History LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:History LatinoamÃ©rica
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/315
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net: Investigation Discovery" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net: Investigation Discovery
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/321
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Las Estrellas MÃ©xico" tvg-logo="" group-title="MEXICO",MrZutv.net:Las Estrellas MÃ©xico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/324
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:MTV Latino" tvg-logo="" group-title="MUSICA",MrZutv.net:MTV Latino
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/329
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:National Geographic Norte" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:National Geographic Norte
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/333
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:National Geographic Wild" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:National Geographic Wild
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/334
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Nick Jr Latin America" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Nick Jr Latin America
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/335
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Nickelodeon Norte" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Nickelodeon Norte
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/336
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Paramount Network Latin America" tvg-logo="" group-title="CINEMA",MrZutv.net:Paramount Network Latin America
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/340
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Playboy" tvg-logo="" group-title="XXX",MrZutv.net:Playboy
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/341
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Sextreme" tvg-logo="" group-title="XXX",MrZutv.net:Sextreme
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/343
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Sony Channel Sur" tvg-logo="" group-title="SERIES",MrZutv.net:Sony Channel Sur
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/344
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Space MExico" tvg-logo="" group-title="CINEMA",MrZutv.net:Space MExico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/345
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Studio Universal" tvg-logo="" group-title="SERIES",MrZutv.net:Studio Universal
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/346
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Tcl" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Tcl
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/349
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:TNT AmÃ©rica Latina" tvg-logo="" group-title="CINEMA",MrZutv.net:TNT AmÃ©rica Latina
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/351
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:TNT Series MÃ©xico" tvg-logo="" group-title="SERIES",MrZutv.net:TNT Series MÃ©xico
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/352
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Universal TV" tvg-logo="" group-title="SERIES",MrZutv.net:Universal TV
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/355
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Venus" tvg-logo="" group-title="XXX",MrZutv.net:Venus
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/356
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Warner Channel" tvg-logo="" group-title="SERIES",MrZutv.net:Warner Channel
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/359
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bigass 2" tvg-logo="" group-title="XXX",XXX: Bigass 2
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/360
+#EXTINF:-1 tvg-id="" tvg-name="XXX: bigtits" tvg-logo="" group-title="XXX",XXX: bigtits
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/361
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK RAW" tvg-logo="" group-title="XXX",XXX: BLACK RAW
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/362
+#EXTINF:-1 tvg-id="" tvg-name="XXX: brazzers" tvg-logo="" group-title="XXX",XXX: brazzers
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/363
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMINE JAE" tvg-logo="" group-title="XXX",XXX: JASMINE JAE
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/364
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAKHALIFA" tvg-logo="" group-title="XXX",XXX: MIAKHALIFA
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/365
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS" tvg-logo="" group-title="XXX",XXX: MOFOS
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/366
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TUSHY RAW" tvg-logo="" group-title="XXX",XXX: TUSHY RAW
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/367
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="" group-title="XXX",XXX: VIXEN
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/368
+#EXTINF:-1 tvg-id="" tvg-name="XXX:Fetich 2" tvg-logo="" group-title="XXX",XXX:Fetich 2
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/369
+#EXTINF:-1 tvg-id="" tvg-name="XXXX: MILF 2" tvg-logo="" group-title="XXX",XXXX: MILF 2
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/370
+#EXTINF:-1 tvg-id="" tvg-name="XXXX: sex mex" tvg-logo="" group-title="XXX",XXXX: sex mex
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/371
+#EXTINF:-1 tvg-id="" tvg-name="url vencida" tvg-logo="" group-title="24/7",url vencida
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/372
+#EXTINF:-1 tvg-id="" tvg-name="PARTIDO DE HOY " tvg-logo="" group-title="DEPORTES DE HOY ",PARTIDO DE HOY 
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/564
+#EXTINF:-1 tvg-id="" tvg-name="PARTIDO DE HOY 2" tvg-logo="" group-title="DEPORTES DE HOY ",PARTIDO DE HOY 2
+http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/565
